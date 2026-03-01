@@ -1,0 +1,845 @@
+name,online_order,book_table,rate,votes,location,rest_type,cuisines,cost_for_two,cuisines_count,service_type,high_rated,price_category,vote_category,multi_cuisine
+KFC,0,1,3.8,2005,indiranagar,bakery,"mexican, thai, chinese, desserts",600,4,delivery,0,budget,medium,1
+Resto_511,0,0,3.4,1731,mg road,bar,"desserts, north indian",1500,2,buffet,0,mid_range,medium,0
+Pizza Hut,1,1,3.2,2101,jayanagar,casual dining,"fast food, desserts",200,2,drinks & nightlife,0,budget,medium,0
+Resto_759,1,1,4.7,665,koramangala,bakery,"continental, mexican",1200,2,delivery,1,mid_range,low,0
+Resto_109,0,0,2.8,2552,indiranagar,cafe,mexican,1200,1,dine-out,0,mid_range,high,0
+Pizza Hut,0,0,3.2,164,hsr layout,bar,"chinese, mexican, beverages, desserts, south indian",3000,5,buffet,0,premium,low,1
+Resto_758,1,1,2.4,637,jayanagar,fine dining,"north indian, fast food, italian, mexican",1000,4,cafes,0,mid_range,low,1
+Burger King,1,0,4.3,1871,whitefield,casual dining,"italian, continental",1000,2,cafes,1,mid_range,medium,0
+Burger King,0,1,3.2,1768,koramangala,bar,"mexican, north indian, italian",1200,3,cafes,0,mid_range,medium,1
+Nandhana Palace,0,0,2.2,1850,hsr layout,fine dining,"chinese, mexican, desserts",2500,3,pubs and bars,0,premium,medium,1
+Resto_649,1,0,4.1,2263,marathahalli,casual dining,"mexican, south indian, fast food, thai",1500,4,delivery,1,mid_range,high,1
+Resto_737,1,1,3.3,2615,koramangala,bar,"italian, fast food, thai, desserts, north indian",1500,5,drinks & nightlife,0,mid_range,high,1
+Resto_150,1,0,4.2,2285,hsr layout,bakery,"mexican, desserts, south indian",1200,3,drinks & nightlife,1,mid_range,high,1
+KFC,0,1,3.8,2776,jayanagar,fine dining,north indian,1000,1,pubs and bars,0,mid_range,high,0
+Burger King,0,1,3,2199,indiranagar,casual dining,"thai, south indian",3000,2,cafes,0,premium,high,0
+KFC,1,0,2.2,980,marathahalli,bakery,italian,2000,1,drinks & nightlife,0,mid_range,medium,0
+Resto_870,0,0,3.8,257,whitefield,fine dining,"continental, fast food, italian",1200,3,buffet,0,mid_range,low,1
+KFC,1,0,3,968,jayanagar,casual dining,"fast food, thai, italian, chinese, desserts",800,5,delivery,0,budget,medium,1
+Burger King,0,1,4.5,1147,whitefield,quick service restaurant,"thai, mexican, continental, south indian, north indian",200,5,buffet,1,budget,medium,1
+Resto_372,1,0,4.2,2878,hsr layout,bar,"thai, fast food",1000,2,delivery,1,mid_range,high,0
+Burger King,1,0,4.3,26,jayanagar,fine dining,"thai, continental, south indian, chinese",1200,4,drinks & nightlife,1,mid_range,low,1
+Resto_366,0,1,2.1,2329,koramangala,quick service restaurant,"chinese, desserts",2000,2,drinks & nightlife,0,mid_range,high,0
+McDonald's,1,0,2.2,2013,indiranagar,cafe,south indian,800,1,dine-out,0,budget,medium,0
+Burger King,0,1,3.4,1243,jp nagar,cafe,"thai, fast food, beverages",2000,3,delivery,0,mid_range,medium,1
+Burger King,0,1,2.8,2566,jayanagar,cafe,"south indian, north indian, beverages, thai, fast food",1200,5,buffet,0,mid_range,high,1
+Resto_722,0,1,2.1,1329,hsr layout,casual dining,"continental, desserts, mexican, thai, fast food",1200,5,drinks & nightlife,0,mid_range,medium,1
+Leon Grill,0,0,2.2,2642,marathahalli,bakery,"fast food, south indian, continental, chinese",1200,4,delivery,0,mid_range,high,1
+Nandhana Palace,1,1,3.7,737,koramangala,pub,"thai, chinese, north indian, beverages",3000,4,buffet,0,premium,medium,1
+KFC,0,0,3.8,304,whitefield,quick service restaurant,"south indian, mexican, desserts, north indian",1000,4,delivery,0,mid_range,low,1
+Nandhana Palace,1,1,3.8,221,whitefield,pub,thai,2500,1,dine-out,0,premium,low,0
+Leon Grill,1,1,3.5,886,marathahalli,bar,"continental, north indian, mexican, thai",800,4,buffet,0,budget,medium,1
+Resto_417,1,1,4.3,557,koramangala,bakery,"continental, thai",3000,2,buffet,1,premium,low,0
+Leon Grill,1,1,3.4,310,marathahalli,quick service restaurant,"thai, continental, south indian, mexican",400,4,cafes,0,budget,low,1
+Resto_875,0,1,4.7,2812,mg road,cafe,fast food,200,1,drinks & nightlife,1,budget,high,0
+Resto_175,0,0,3.7,489,koramangala,cafe,"beverages, north indian",1500,2,drinks & nightlife,0,mid_range,low,0
+Resto_566,0,1,2.4,48,indiranagar,bakery,"north indian, chinese, fast food, mexican",200,4,dine-out,0,budget,low,1
+Nandhana Palace,1,1,3,847,marathahalli,quick service restaurant,"chinese, desserts, beverages, south indian",400,4,drinks & nightlife,0,budget,medium,1
+Resto_580,1,1,2,1266,hsr layout,pub,"north indian, italian",1000,2,delivery,0,mid_range,medium,0
+Nandhana Palace,0,0,2.9,807,koramangala,bar,"desserts, north indian, continental, italian",400,4,buffet,0,budget,medium,1
+Pizza Hut,0,1,4.1,2922,hsr layout,cafe,"north indian, chinese, mexican, beverages, fast food",1000,5,buffet,1,mid_range,high,1
+Onesta,0,0,2.3,907,mg road,fine dining,"continental, thai",2000,2,pubs and bars,0,mid_range,medium,0
+Leon Grill,1,0,3.6,2876,mg road,quick service restaurant,"italian, thai, continental",400,3,dine-out,0,budget,high,1
+Resto_651,1,0,2.1,1432,hsr layout,quick service restaurant,"fast food, mexican",2000,2,drinks & nightlife,0,mid_range,medium,0
+Resto_944,1,1,3.4,402,marathahalli,bar,"thai, north indian, beverages, fast food, chinese",1200,5,drinks & nightlife,0,mid_range,low,1
+Resto_531,1,1,4.5,417,jayanagar,bakery,"south indian, north indian, chinese, fast food",2000,4,buffet,1,mid_range,low,1
+Resto_329,0,0,3.9,1116,jayanagar,cafe,"chinese, north indian, fast food",800,3,dine-out,0,budget,medium,1
+Onesta,0,0,4.2,1630,jayanagar,bar,italian,2000,1,dine-out,1,mid_range,medium,0
+Resto_191,1,1,2.4,318,hsr layout,quick service restaurant,"south indian, chinese, thai",2000,3,pubs and bars,0,mid_range,low,1
+McDonald's,0,1,3.8,1811,hsr layout,quick service restaurant,"chinese, mexican",600,2,drinks & nightlife,0,budget,medium,0
+Onesta,0,0,4.2,1305,indiranagar,pub,"mexican, italian, thai, south indian",400,4,buffet,1,budget,medium,1
+Resto_470,1,1,3.7,933,whitefield,cafe,beverages,3000,1,cafes,0,premium,medium,0
+Burger King,1,1,4.6,1890,indiranagar,fine dining,"desserts, continental",2500,2,cafes,1,premium,medium,0
+Pizza Hut,0,0,3.9,373,mg road,cafe,"mexican, thai, south indian",2000,3,drinks & nightlife,0,mid_range,low,1
+Resto_732,0,0,2.3,1075,indiranagar,fine dining,"thai, mexican",1200,2,dine-out,0,mid_range,medium,0
+Resto_351,1,0,2.8,1804,indiranagar,bakery,"fast food, mexican",600,2,buffet,0,budget,medium,0
+Empire Restaurant,1,1,2.7,889,koramangala,cafe,"continental, italian, thai, fast food, mexican",1200,5,cafes,0,mid_range,medium,1
+Resto_549,0,1,3.1,1492,mg road,cafe,"continental, chinese, desserts, thai, italian",600,5,drinks & nightlife,0,budget,medium,1
+Resto_308,1,1,2.9,2888,jayanagar,bakery,"fast food, south indian",1200,2,dine-out,0,mid_range,high,0
+Empire Restaurant,1,0,3,133,whitefield,bakery,"fast food, beverages, italian",400,3,buffet,0,budget,low,1
+Onesta,0,1,3.9,317,koramangala,bar,"chinese, thai, mexican, desserts",3000,4,delivery,0,premium,low,1
+Empire Restaurant,0,1,3.6,2226,marathahalli,fine dining,"thai, mexican",800,2,cafes,0,budget,high,0
+Resto_284,1,0,3.3,137,hsr layout,bakery,beverages,800,1,dine-out,0,budget,low,0
+Leon Grill,1,0,3.3,2731,koramangala,bar,"continental, beverages, south indian, north indian",2000,4,pubs and bars,0,mid_range,high,1
+Resto_625,1,1,4.5,2700,jayanagar,quick service restaurant,"north indian, italian, mexican, south indian",800,4,pubs and bars,1,budget,high,1
+Resto_856,1,1,4.8,1728,jp nagar,fine dining,"north indian, continental, thai, italian",1200,4,pubs and bars,1,mid_range,medium,1
+Resto_166,0,1,4.4,545,jayanagar,casual dining,"fast food, north indian, south indian, italian, desserts",800,5,buffet,1,budget,low,1
+Resto_579,0,0,4.3,2648,mg road,cafe,"chinese, fast food, beverages",1200,3,dine-out,1,mid_range,high,1
+Resto_411,1,0,3.9,369,mg road,bar,"italian, chinese",3000,2,cafes,0,premium,low,0
+McDonald's,1,0,3.2,1852,marathahalli,bakery,"thai, fast food, beverages, desserts",1500,4,dine-out,0,mid_range,medium,1
+KFC,1,0,4,923,hsr layout,fine dining,"mexican, beverages",800,2,dine-out,1,budget,medium,0
+Resto_144,0,1,4.3,1577,koramangala,quick service restaurant,"mexican, chinese, italian, continental",2500,4,dine-out,1,premium,medium,1
+Onesta,1,0,2.5,1682,mg road,cafe,south indian,2500,1,dine-out,0,premium,medium,0
+Pizza Hut,0,1,3.2,928,jp nagar,fine dining,thai,2000,1,delivery,0,mid_range,medium,0
+Nandhana Palace,0,1,4.5,867,hsr layout,bar,"beverages, mexican, chinese, desserts",2000,4,cafes,1,mid_range,medium,1
+Pizza Hut,1,0,4.8,690,koramangala,quick service restaurant,"italian, mexican",1000,2,cafes,1,mid_range,low,0
+Pizza Hut,0,1,3.6,1325,marathahalli,quick service restaurant,"beverages, south indian, chinese, continental, desserts",2000,5,cafes,0,mid_range,medium,1
+Resto_70,0,0,4,1942,indiranagar,casual dining,chinese,1500,1,buffet,1,mid_range,medium,0
+KFC,1,1,4.8,2507,marathahalli,bar,"mexican, beverages, italian, desserts",600,4,pubs and bars,1,budget,high,1
+Resto_206,1,1,2,1033,whitefield,fine dining,"mexican, fast food, thai",2000,3,pubs and bars,0,mid_range,medium,1
+KFC,1,0,2.7,534,marathahalli,quick service restaurant,"fast food, beverages, north indian, thai, desserts",400,5,drinks & nightlife,0,budget,low,1
+Nandhana Palace,0,1,4.6,29,mg road,fine dining,"thai, italian, north indian, continental, beverages",600,5,dine-out,1,budget,low,1
+Resto_33,0,0,4.4,1033,indiranagar,bakery,beverages,200,1,pubs and bars,1,budget,medium,0
+Leon Grill,0,0,2.3,1262,marathahalli,quick service restaurant,"chinese, south indian, fast food",600,3,delivery,0,budget,medium,1
+Pizza Hut,1,1,3.6,890,whitefield,fine dining,"north indian, desserts, beverages, fast food, south indian",200,5,drinks & nightlife,0,budget,medium,1
+Burger King,1,0,4,2011,jayanagar,bakery,"south indian, north indian, continental",3000,3,delivery,1,premium,medium,1
+KFC,1,0,2.3,298,indiranagar,pub,"desserts, north indian, fast food",600,3,pubs and bars,0,budget,low,1
+Empire Restaurant,0,0,3.2,498,marathahalli,bakery,"beverages, north indian, italian",200,3,drinks & nightlife,0,budget,low,1
+Resto_783,0,0,3.1,961,jp nagar,pub,"chinese, south indian, thai",800,3,buffet,0,budget,medium,1
+Empire Restaurant,1,0,3.6,850,koramangala,cafe,"north indian, thai",200,2,drinks & nightlife,0,budget,medium,0
+Resto_66,1,1,2.1,60,jp nagar,bar,"fast food, thai",200,2,pubs and bars,0,budget,low,0
+Resto_129,1,1,3.2,2030,koramangala,quick service restaurant,"beverages, thai, mexican, italian",600,4,dine-out,0,budget,medium,1
+Resto_497,1,1,4.7,981,jayanagar,quick service restaurant,"continental, chinese, italian, desserts, mexican",2500,5,delivery,1,premium,medium,1
+McDonald's,0,0,4.8,1352,indiranagar,casual dining,"mexican, south indian, north indian, continental",400,4,drinks & nightlife,1,budget,medium,1
+Nandhana Palace,0,1,3.9,1356,jp nagar,quick service restaurant,"fast food, beverages",2000,2,pubs and bars,0,mid_range,medium,0
+Pizza Hut,0,1,3.4,2995,jayanagar,cafe,mexican,1500,1,cafes,0,mid_range,high,0
+Resto_71,0,1,4.5,1732,koramangala,quick service restaurant,"continental, thai, chinese, fast food, mexican",800,5,delivery,1,budget,medium,1
+KFC,1,1,2.3,2512,jp nagar,cafe,"beverages, north indian, fast food, mexican, italian",400,5,buffet,0,budget,high,1
+Onesta,1,0,2.3,917,koramangala,bar,south indian,400,1,dine-out,0,budget,medium,0
+Resto_495,1,0,4.1,1944,jayanagar,pub,"continental, italian, desserts, south indian, chinese",200,5,cafes,1,budget,medium,1
+Nandhana Palace,0,1,3.6,532,jayanagar,pub,"north indian, thai, desserts",600,3,pubs and bars,0,budget,low,1
+Pizza Hut,1,1,3,1238,koramangala,fine dining,"south indian, continental, north indian, desserts, beverages",1000,5,delivery,0,mid_range,medium,1
+Resto_238,1,1,4,1314,mg road,bar,mexican,1000,1,buffet,1,mid_range,medium,0
+Nandhana Palace,0,0,4.4,1778,whitefield,cafe,mexican,2000,1,delivery,1,mid_range,medium,0
+Pizza Hut,1,0,3.4,2511,jp nagar,quick service restaurant,"desserts, mexican",800,2,cafes,0,budget,high,0
+Resto_35,1,1,2.3,105,whitefield,pub,"mexican, italian, chinese, continental",800,4,buffet,0,budget,low,1
+KFC,1,1,2.8,2084,whitefield,bakery,"north indian, continental, beverages, fast food",600,4,cafes,0,budget,medium,1
+Resto_8,1,1,4.5,1259,hsr layout,casual dining,"fast food, chinese",400,2,dine-out,1,budget,medium,0
+Resto_795,0,1,2.9,1982,mg road,quick service restaurant,"continental, north indian, beverages, chinese",400,4,pubs and bars,0,budget,medium,1
+Pizza Hut,1,0,3.6,1706,jayanagar,bakery,"continental, italian",1200,2,delivery,0,mid_range,medium,0
+Burger King,1,1,4.5,1609,jp nagar,quick service restaurant,"continental, italian, chinese, desserts",600,4,delivery,1,budget,medium,1
+Empire Restaurant,1,1,4.9,2327,mg road,bakery,"mexican, chinese",2500,2,drinks & nightlife,1,premium,high,0
+Empire Restaurant,1,0,4.1,1256,jayanagar,pub,"desserts, fast food, continental",600,3,buffet,1,budget,medium,1
+Onesta,0,0,4.2,2181,hsr layout,bakery,"desserts, continental, south indian, beverages",1500,4,pubs and bars,1,mid_range,high,1
+Resto_38,0,1,3,1058,jp nagar,quick service restaurant,"continental, beverages, north indian, fast food, chinese",400,5,buffet,0,budget,medium,1
+Burger King,0,0,3.8,589,jayanagar,bar,"chinese, mexican",1000,2,drinks & nightlife,0,mid_range,low,0
+Resto_965,1,0,2.4,419,jp nagar,bakery,fast food,200,1,drinks & nightlife,0,budget,low,0
+McDonald's,1,0,3.6,1025,koramangala,pub,chinese,600,1,cafes,0,budget,medium,0
+Leon Grill,0,1,4.2,1943,hsr layout,pub,"beverages, desserts, fast food, south indian, north indian",1200,5,dine-out,1,mid_range,medium,1
+Resto_79,1,1,4.2,2023,marathahalli,bar,"fast food, desserts, thai, mexican, beverages",1200,5,cafes,1,mid_range,medium,1
+Resto_622,1,1,4.6,580,koramangala,fine dining,"mexican, thai, north indian, chinese",1000,4,buffet,1,mid_range,low,1
+Empire Restaurant,0,1,2.9,2967,hsr layout,pub,"italian, thai, beverages, desserts, chinese",2500,5,delivery,0,premium,high,1
+Resto_938,1,0,4.6,1227,mg road,cafe,south indian,2000,1,delivery,1,mid_range,medium,0
+McDonald's,0,0,2.5,182,whitefield,cafe,"north indian, chinese, italian, mexican, south indian",2500,5,dine-out,0,premium,low,1
+McDonald's,0,1,4.1,1306,marathahalli,quick service restaurant,"thai, desserts, continental, mexican",2000,4,buffet,1,mid_range,medium,1
+Pizza Hut,1,1,3.7,1705,indiranagar,cafe,"chinese, thai, north indian, south indian",400,4,dine-out,0,budget,medium,1
+McDonald's,0,0,2.6,1009,whitefield,pub,"italian, continental, beverages",800,3,cafes,0,budget,medium,1
+Resto_404,0,1,3.1,1598,jp nagar,pub,desserts,400,1,cafes,0,budget,medium,0
+Pizza Hut,1,1,3.3,365,jayanagar,quick service restaurant,"south indian, italian, thai",1500,3,delivery,0,mid_range,low,1
+Nandhana Palace,0,1,4.6,631,hsr layout,quick service restaurant,"beverages, continental, thai, chinese",400,4,dine-out,1,budget,low,1
+Pizza Hut,0,1,2.5,1186,indiranagar,fine dining,"fast food, desserts, continental, thai",3000,4,dine-out,0,premium,medium,1
+McDonald's,0,0,4.8,86,jayanagar,cafe,"beverages, north indian, italian",200,3,buffet,1,budget,low,1
+Resto_17,0,1,4.6,1000,jp nagar,quick service restaurant,"desserts, beverages",1000,2,pubs and bars,1,mid_range,medium,0
+Burger King,0,1,4,1649,marathahalli,cafe,"beverages, south indian, north indian, fast food",200,4,pubs and bars,1,budget,medium,1
+Resto_518,0,1,2.3,2322,hsr layout,cafe,"north indian, south indian",800,2,pubs and bars,0,budget,high,0
+Resto_899,1,0,2.9,1543,indiranagar,casual dining,chinese,200,1,delivery,0,budget,medium,0
+Pizza Hut,1,1,3,2310,mg road,quick service restaurant,"mexican, thai, south indian",600,3,buffet,0,budget,high,1
+Nandhana Palace,1,0,4.1,875,marathahalli,pub,"italian, beverages, chinese",1500,3,delivery,1,mid_range,medium,1
+Onesta,0,1,3,2418,jp nagar,bar,"desserts, south indian, chinese",600,3,cafes,0,budget,high,1
+Resto_718,0,1,2.9,145,indiranagar,quick service restaurant,beverages,1500,1,dine-out,0,mid_range,low,0
+Burger King,1,1,3.9,2258,hsr layout,bakery,"italian, mexican, thai, beverages",2000,4,cafes,0,mid_range,high,1
+Leon Grill,1,1,2.1,534,marathahalli,fine dining,"south indian, italian, beverages",1000,3,drinks & nightlife,0,mid_range,low,1
+Resto_49,0,0,4.2,833,whitefield,pub,"continental, desserts",2000,2,drinks & nightlife,1,mid_range,medium,0
+Nandhana Palace,1,0,3.3,1656,mg road,quick service restaurant,mexican,400,1,pubs and bars,0,budget,medium,0
+McDonald's,0,1,4.4,1529,mg road,pub,"italian, thai, mexican, beverages",400,4,pubs and bars,1,budget,medium,1
+Onesta,1,1,3.5,986,hsr layout,pub,"north indian, fast food, continental",2000,3,buffet,0,mid_range,medium,1
+Nandhana Palace,0,0,3.7,2651,mg road,casual dining,"north indian, south indian",3000,2,buffet,0,premium,high,0
+Leon Grill,0,1,2.1,2824,mg road,pub,"north indian, desserts, italian",600,3,drinks & nightlife,0,budget,high,1
+Resto_873,1,0,3.1,2255,mg road,casual dining,italian,1000,1,buffet,0,mid_range,high,0
+Onesta,1,0,4.2,2207,whitefield,fine dining,"mexican, fast food, thai, chinese, beverages",2500,5,dine-out,1,premium,high,1
+McDonald's,1,0,2.2,2990,whitefield,bakery,"chinese, beverages, fast food, desserts, italian",400,5,drinks & nightlife,0,budget,high,1
+McDonald's,1,1,4.6,2835,marathahalli,quick service restaurant,chinese,1000,1,drinks & nightlife,1,mid_range,high,0
+Empire Restaurant,0,1,3,1047,marathahalli,bar,"beverages, chinese, mexican, thai",3000,4,delivery,0,premium,medium,1
+McDonald's,1,0,4.7,360,mg road,bar,italian,1500,1,cafes,1,mid_range,low,0
+Empire Restaurant,0,1,2.4,740,jayanagar,fine dining,"north indian, mexican, thai, desserts",800,4,dine-out,0,budget,medium,1
+Pizza Hut,0,0,4.1,1099,jp nagar,bar,"chinese, continental",2000,2,drinks & nightlife,1,mid_range,medium,0
+Resto_555,1,0,4.7,2914,mg road,cafe,"north indian, south indian, fast food",200,3,drinks & nightlife,1,budget,high,1
+Resto_421,1,1,2.8,2530,marathahalli,cafe,"fast food, desserts, chinese",200,3,pubs and bars,0,budget,high,1
+KFC,1,1,3.5,76,indiranagar,fine dining,"south indian, north indian, continental, mexican, chinese",800,5,buffet,0,budget,low,1
+Resto_663,1,1,4.9,321,indiranagar,cafe,"beverages, fast food, mexican, continental, thai",400,5,buffet,1,budget,low,1
+Resto_60,0,0,2.5,541,jp nagar,pub,"continental, south indian, fast food, mexican, italian",1000,5,cafes,0,mid_range,low,1
+Onesta,1,1,4.8,2372,koramangala,fine dining,"north indian, fast food, desserts",2500,3,delivery,1,premium,high,1
+Resto_674,0,0,4.1,2752,indiranagar,fine dining,"north indian, mexican, chinese",2500,3,dine-out,1,premium,high,1
+McDonald's,1,0,2.9,354,whitefield,bar,"mexican, fast food, north indian, italian",600,4,buffet,0,budget,low,1
+McDonald's,0,0,4.8,2107,indiranagar,cafe,"north indian, continental, south indian, thai",600,4,pubs and bars,1,budget,medium,1
+Pizza Hut,0,0,4.8,1133,marathahalli,bar,thai,2000,1,dine-out,1,mid_range,medium,0
+Nandhana Palace,0,0,2.5,848,mg road,bakery,italian,800,1,delivery,0,budget,medium,0
+Resto_924,0,0,3.8,510,mg road,quick service restaurant,"desserts, north indian, chinese, italian, continental",800,5,pubs and bars,0,budget,low,1
+Pizza Hut,1,0,4.3,938,koramangala,bar,"mexican, continental, chinese",800,3,pubs and bars,1,budget,medium,1
+Leon Grill,1,0,2.5,1155,koramangala,quick service restaurant,"south indian, mexican",3000,2,cafes,0,premium,medium,0
+Resto_858,0,1,3.6,339,hsr layout,fine dining,desserts,1500,1,delivery,0,mid_range,low,0
+McDonald's,0,1,2.2,1556,jayanagar,quick service restaurant,"chinese, italian, south indian, thai, fast food",1200,5,cafes,0,mid_range,medium,1
+KFC,0,1,3.9,1013,whitefield,bar,desserts,1000,1,delivery,0,mid_range,medium,0
+Pizza Hut,0,0,3.4,329,koramangala,bakery,"fast food, continental, north indian",400,3,buffet,0,budget,low,1
+Resto_101,0,0,4.4,302,jayanagar,quick service restaurant,desserts,2000,1,buffet,1,mid_range,low,0
+Pizza Hut,1,1,3.5,1016,mg road,bakery,continental,1000,1,delivery,0,mid_range,medium,0
+McDonald's,1,1,4.8,460,jayanagar,bar,"chinese, desserts, italian, mexican, north indian",1500,5,pubs and bars,1,mid_range,low,1
+Pizza Hut,1,1,4.1,2636,jayanagar,pub,"desserts, italian, beverages, fast food",800,4,drinks & nightlife,1,budget,high,1
+McDonald's,0,0,4.7,1528,mg road,bakery,"fast food, chinese, mexican",200,3,buffet,1,budget,medium,1
+Resto_355,0,1,3,347,marathahalli,fine dining,"south indian, north indian",800,2,cafes,0,budget,low,0
+Onesta,0,1,2.5,1662,indiranagar,pub,fast food,1500,1,dine-out,0,mid_range,medium,0
+Leon Grill,1,0,4.1,1769,indiranagar,quick service restaurant,"north indian, desserts",1200,2,cafes,1,mid_range,medium,0
+Resto_94,0,0,4.2,1583,jp nagar,cafe,"desserts, thai, continental, mexican",400,4,buffet,1,budget,medium,1
+Pizza Hut,0,0,2.2,646,whitefield,casual dining,"fast food, italian, continental, beverages, desserts",200,5,drinks & nightlife,0,budget,low,1
+Resto_807,1,0,4.6,1507,koramangala,bakery,"south indian, north indian, desserts",1500,3,dine-out,1,mid_range,medium,1
+Resto_199,0,1,3.3,2569,jayanagar,bar,"continental, thai, chinese, north indian, italian",2500,5,buffet,0,premium,high,1
+Resto_422,0,0,2.7,390,koramangala,casual dining,"italian, desserts, thai",3000,3,drinks & nightlife,0,premium,low,1
+Onesta,1,1,3.7,2851,jayanagar,bakery,"thai, desserts, north indian, chinese",2000,4,delivery,0,mid_range,high,1
+Onesta,1,0,3.6,1056,marathahalli,fine dining,thai,2500,1,dine-out,0,premium,medium,0
+Leon Grill,1,1,2.1,1193,jp nagar,fine dining,"fast food, chinese, north indian",600,3,delivery,0,budget,medium,1
+Resto_605,0,0,3.4,2099,mg road,cafe,"south indian, italian, continental",1500,3,dine-out,0,mid_range,medium,1
+Empire Restaurant,0,1,3.3,1247,whitefield,bakery,"mexican, continental",3000,2,cafes,0,premium,medium,0
+Burger King,0,1,4,2921,jayanagar,fine dining,"south indian, mexican",3000,2,pubs and bars,1,premium,high,0
+McDonald's,1,0,3.2,159,indiranagar,casual dining,"south indian, continental, mexican",600,3,buffet,0,budget,low,1
+Resto_184,1,1,3.8,2651,whitefield,bakery,"beverages, desserts, north indian, fast food",1000,4,pubs and bars,0,mid_range,high,1
+Onesta,1,0,2.9,2942,jp nagar,fine dining,"mexican, south indian, thai",2500,3,cafes,0,premium,high,1
+Onesta,1,0,3.1,2925,koramangala,pub,"beverages, south indian, chinese, mexican, italian",600,5,dine-out,0,budget,high,1
+Nandhana Palace,0,0,2.5,1785,jp nagar,bar,"south indian, italian, continental, chinese, beverages",2500,5,drinks & nightlife,0,premium,medium,1
+Leon Grill,1,1,2.2,1276,mg road,pub,"continental, beverages, south indian",600,3,drinks & nightlife,0,budget,medium,1
+Resto_287,1,1,2.7,2287,jp nagar,bar,"italian, north indian, mexican, south indian",600,4,pubs and bars,0,budget,high,1
+Resto_457,0,0,3.1,2215,koramangala,fine dining,"continental, chinese, south indian, thai",200,4,pubs and bars,0,budget,high,1
+McDonald's,1,1,4.5,2744,jp nagar,fine dining,"italian, beverages, fast food, desserts",1200,4,cafes,1,mid_range,high,1
+McDonald's,0,1,4.4,141,whitefield,quick service restaurant,"fast food, north indian, beverages, thai, mexican",600,5,dine-out,1,budget,low,1
+Leon Grill,0,0,4.5,1575,indiranagar,bakery,"chinese, italian",400,2,delivery,1,budget,medium,0
+Leon Grill,0,0,4.5,2049,hsr layout,bar,"thai, beverages",600,2,delivery,1,budget,medium,0
+Nandhana Palace,0,1,4.5,1563,whitefield,bakery,south indian,600,1,buffet,1,budget,medium,0
+Resto_682,1,1,4.3,173,jayanagar,quick service restaurant,"north indian, italian, beverages",200,3,pubs and bars,1,budget,low,1
+Resto_401,1,0,4,2343,marathahalli,bakery,"south indian, beverages, north indian, italian, fast food",2000,5,drinks & nightlife,1,mid_range,high,1
+Nandhana Palace,0,1,4,1624,hsr layout,pub,"continental, mexican, desserts",2500,3,drinks & nightlife,1,premium,medium,1
+KFC,1,0,2.5,1574,mg road,cafe,"north indian, italian, mexican, continental",600,4,buffet,0,budget,medium,1
+Resto_836,0,0,2.4,69,indiranagar,casual dining,"beverages, desserts, thai",600,3,pubs and bars,0,budget,low,1
+Resto_344,1,1,4.1,2699,marathahalli,quick service restaurant,"continental, italian",2000,2,drinks & nightlife,1,mid_range,high,0
+Onesta,0,1,2.1,883,jayanagar,pub,"beverages, mexican, chinese, fast food, south indian",800,5,cafes,0,budget,medium,1
+Nandhana Palace,0,0,4.4,666,jp nagar,quick service restaurant,"continental, chinese",3000,2,dine-out,1,premium,low,0
+Empire Restaurant,1,0,2.7,2807,whitefield,bar,"mexican, thai, chinese, beverages",800,4,pubs and bars,0,budget,high,1
+Nandhana Palace,1,0,4.2,1849,marathahalli,casual dining,"fast food, south indian",3000,2,delivery,1,premium,medium,0
+KFC,1,1,4.9,1380,hsr layout,fine dining,italian,400,1,delivery,1,budget,medium,0
+Nandhana Palace,0,1,4.3,1063,marathahalli,cafe,"south indian, fast food",3000,2,pubs and bars,1,premium,medium,0
+Resto_438,0,1,2.3,2920,mg road,bakery,"fast food, beverages, continental, north indian",2000,4,dine-out,0,mid_range,high,1
+Resto_765,0,0,3.3,1076,marathahalli,casual dining,"beverages, thai, fast food",600,3,pubs and bars,0,budget,medium,1
+Resto_225,0,0,2.2,1819,marathahalli,casual dining,"desserts, thai, chinese, italian",200,4,buffet,0,budget,medium,1
+Resto_97,1,1,4.8,1523,marathahalli,bar,fast food,600,1,pubs and bars,1,budget,medium,0
+Pizza Hut,0,1,3.2,1139,hsr layout,bar,"continental, north indian, mexican, beverages",2000,4,pubs and bars,0,mid_range,medium,1
+Leon Grill,1,1,2.5,1085,jp nagar,pub,"italian, continental",1000,2,pubs and bars,0,mid_range,medium,0
+Resto_852,0,0,3.6,2786,jayanagar,casual dining,"beverages, south indian, thai",2500,3,dine-out,0,premium,high,1
+Nandhana Palace,0,0,4.6,1956,whitefield,cafe,"continental, italian",2500,2,delivery,1,premium,medium,0
+Burger King,0,0,3.6,2142,jp nagar,casual dining,"desserts, mexican",1200,2,cafes,0,mid_range,high,0
+Resto_830,0,1,4.8,258,koramangala,bakery,"mexican, italian, beverages",1200,3,drinks & nightlife,1,mid_range,low,1
+Leon Grill,1,0,3.2,1569,hsr layout,fine dining,"south indian, italian, thai, north indian",1000,4,dine-out,0,mid_range,medium,1
+Burger King,0,1,4.5,1673,marathahalli,bakery,"mexican, fast food",200,2,pubs and bars,1,budget,medium,0
+Resto_311,1,0,2.6,2749,hsr layout,bar,"chinese, south indian",2000,2,cafes,0,mid_range,high,0
+Resto_373,0,0,3.5,502,marathahalli,fine dining,"beverages, continental, desserts, fast food, south indian",400,5,delivery,0,budget,low,1
+Resto_134,1,0,2.7,2255,jp nagar,quick service restaurant,"desserts, fast food, south indian, thai",1200,4,buffet,0,mid_range,high,1
+Pizza Hut,0,0,2.5,210,whitefield,bar,"chinese, fast food, mexican, italian",400,4,dine-out,0,budget,low,1
+Burger King,1,1,3.9,1532,whitefield,quick service restaurant,desserts,400,1,drinks & nightlife,0,budget,medium,0
+Empire Restaurant,1,0,4.7,603,whitefield,cafe,"fast food, south indian, north indian, desserts, mexican",1500,5,cafes,1,mid_range,low,1
+McDonald's,0,0,2.2,1769,whitefield,casual dining,"thai, beverages, south indian, chinese",400,4,buffet,0,budget,medium,1
+Nandhana Palace,1,0,3.1,1598,mg road,pub,"italian, south indian, north indian",600,3,buffet,0,budget,medium,1
+Resto_243,1,0,4.7,2987,jp nagar,casual dining,"beverages, south indian, chinese, north indian, mexican",3000,5,dine-out,1,premium,high,1
+Resto_709,0,1,3.6,571,jayanagar,fine dining,"north indian, chinese, continental",600,3,dine-out,0,budget,low,1
+Resto_32,0,1,3.5,1613,koramangala,casual dining,"south indian, desserts, fast food, north indian",1000,4,drinks & nightlife,0,mid_range,medium,1
+Resto_804,1,0,2.4,1300,koramangala,casual dining,mexican,2500,1,drinks & nightlife,0,premium,medium,0
+Onesta,0,1,4.1,1311,hsr layout,quick service restaurant,"mexican, north indian, italian",600,3,dine-out,1,budget,medium,1
+Burger King,0,1,4.5,2728,jp nagar,cafe,"desserts, south indian",600,2,dine-out,1,budget,high,0
+Pizza Hut,0,0,3.8,564,whitefield,casual dining,"continental, thai, mexican",1500,3,pubs and bars,0,mid_range,low,1
+Burger King,1,1,3.6,377,marathahalli,fine dining,"mexican, north indian, south indian, continental",3000,4,cafes,0,premium,low,1
+Resto_681,1,1,2.6,643,mg road,bar,"continental, south indian",1200,2,delivery,0,mid_range,low,0
+Resto_186,0,0,4.9,653,indiranagar,cafe,"continental, beverages",200,2,drinks & nightlife,1,budget,low,0
+Resto_947,0,1,2.4,1103,hsr layout,quick service restaurant,"north indian, thai, continental",600,3,buffet,0,budget,medium,1
+Resto_180,0,0,3.6,850,marathahalli,quick service restaurant,"continental, chinese, beverages, desserts",1000,4,drinks & nightlife,0,mid_range,medium,1
+Onesta,0,0,3.7,2968,mg road,casual dining,"italian, mexican, thai, continental, south indian",600,5,buffet,0,budget,high,1
+Resto_399,0,1,3.8,313,marathahalli,bar,"italian, continental, desserts, fast food",2500,4,delivery,0,premium,low,1
+Nandhana Palace,0,1,3.6,2079,koramangala,bakery,"north indian, mexican, thai, south indian",200,4,dine-out,0,budget,medium,1
+Resto_533,1,1,3.9,2087,hsr layout,casual dining,"fast food, desserts, continental, thai, mexican",400,5,cafes,0,budget,medium,1
+Resto_809,1,1,4.1,2534,jp nagar,bakery,"mexican, thai, continental, chinese, italian",600,5,buffet,1,budget,high,1
+Resto_271,1,1,4,409,whitefield,bar,"beverages, mexican",1500,2,delivery,1,mid_range,low,0
+McDonald's,1,1,4.1,2641,hsr layout,bakery,"fast food, north indian, desserts",3000,3,dine-out,1,premium,high,1
+Leon Grill,0,0,3.3,1536,marathahalli,casual dining,"south indian, desserts, italian",600,3,buffet,0,budget,medium,1
+Empire Restaurant,0,0,4.3,725,jayanagar,fine dining,"chinese, mexican",3000,2,cafes,1,premium,medium,0
+Resto_514,0,0,4.2,1427,marathahalli,fine dining,"north indian, mexican, beverages",800,3,pubs and bars,1,budget,medium,1
+Resto_588,0,1,4.9,1991,hsr layout,fine dining,"chinese, continental, desserts, north indian",2500,4,pubs and bars,1,premium,medium,1
+Empire Restaurant,1,1,4.3,2734,jp nagar,bar,"fast food, beverages, mexican, desserts",2500,4,cafes,1,premium,high,1
+Pizza Hut,0,0,2.1,1122,marathahalli,cafe,continental,3000,1,delivery,0,premium,medium,0
+Resto_181,1,0,2.1,1224,whitefield,bar,"north indian, mexican",2000,2,cafes,0,mid_range,medium,0
+Pizza Hut,1,0,3.3,167,hsr layout,pub,"continental, north indian",2000,2,dine-out,0,mid_range,low,0
+McDonald's,1,0,3.9,1228,marathahalli,quick service restaurant,north indian,2000,1,buffet,0,mid_range,medium,0
+Resto_316,1,0,3.9,614,jayanagar,bar,"south indian, north indian",1500,2,pubs and bars,0,mid_range,low,0
+Leon Grill,0,1,3.5,1441,whitefield,casual dining,"chinese, thai, mexican, fast food, desserts",1500,5,delivery,0,mid_range,medium,1
+Resto_598,0,1,3.1,2524,mg road,bar,fast food,1500,1,cafes,0,mid_range,high,0
+Empire Restaurant,1,0,4,948,koramangala,quick service restaurant,"chinese, thai, desserts",2000,3,pubs and bars,1,mid_range,medium,1
+Resto_623,0,1,2.7,448,koramangala,bar,fast food,1000,1,dine-out,0,mid_range,low,0
+Leon Grill,1,1,3.6,1886,jp nagar,cafe,"italian, desserts, beverages",600,3,buffet,0,budget,medium,1
+Resto_869,0,0,4.9,1398,whitefield,bar,"fast food, thai, continental, mexican, italian",2500,5,drinks & nightlife,1,premium,medium,1
+Pizza Hut,1,1,2.3,1256,mg road,fine dining,"north indian, thai",600,2,cafes,0,budget,medium,0
+Burger King,1,1,3.5,987,hsr layout,pub,"continental, thai, fast food, mexican, italian",400,5,buffet,0,budget,medium,1
+Empire Restaurant,0,0,4.1,856,koramangala,cafe,"chinese, continental, desserts, fast food",2500,4,buffet,1,premium,medium,1
+Burger King,1,0,4.6,2200,indiranagar,fine dining,"beverages, north indian, desserts, italian, thai",200,5,drinks & nightlife,1,budget,high,1
+McDonald's,1,0,3.1,1646,koramangala,cafe,"fast food, italian",3000,2,dine-out,0,premium,medium,0
+Nandhana Palace,1,0,3.6,2876,mg road,bar,"italian, continental, thai, chinese, fast food",800,5,cafes,0,budget,high,1
+Resto_501,1,0,4.4,2141,indiranagar,bakery,"desserts, north indian, beverages",200,3,drinks & nightlife,1,budget,high,1
+Leon Grill,1,0,2.4,321,mg road,fine dining,chinese,200,1,dine-out,0,budget,low,0
+McDonald's,1,0,2.8,2229,jayanagar,bakery,"thai, chinese, continental, italian",800,4,cafes,0,budget,high,1
+Onesta,0,0,4.2,1810,jayanagar,casual dining,"desserts, north indian, thai, mexican, south indian",1500,5,drinks & nightlife,1,mid_range,medium,1
+McDonald's,0,1,4.8,1259,indiranagar,quick service restaurant,"thai, desserts, beverages, south indian, fast food",600,5,dine-out,1,budget,medium,1
+KFC,0,0,2.2,1675,marathahalli,cafe,"italian, continental, south indian",1500,3,buffet,0,mid_range,medium,1
+Resto_325,0,1,4,1448,indiranagar,cafe,"north indian, thai, mexican",2500,3,buffet,1,premium,medium,1
+McDonald's,1,1,3.3,167,jp nagar,quick service restaurant,"beverages, chinese",2500,2,drinks & nightlife,0,premium,low,0
+Pizza Hut,1,0,4.8,1550,indiranagar,pub,"fast food, thai, italian",400,3,delivery,1,budget,medium,1
+Burger King,0,1,3,1919,whitefield,quick service restaurant,"beverages, italian, continental, thai",400,4,delivery,0,budget,medium,1
+Pizza Hut,1,1,3.3,826,whitefield,cafe,fast food,2500,1,pubs and bars,0,premium,medium,0
+Resto_698,0,0,4.8,124,marathahalli,pub,"desserts, south indian, fast food, thai",2500,4,delivery,1,premium,low,1
+Leon Grill,0,1,3.3,695,whitefield,cafe,continental,3000,1,dine-out,0,premium,low,0
+Resto_462,0,0,2.2,118,mg road,fine dining,"north indian, continental",2500,2,buffet,0,premium,low,0
+Resto_673,1,1,3.3,1077,indiranagar,bar,"continental, chinese",1200,2,drinks & nightlife,0,mid_range,medium,0
+Nandhana Palace,0,0,2.1,1052,indiranagar,bar,"chinese, italian, continental, south indian",3000,4,drinks & nightlife,0,premium,medium,1
+Resto_309,1,1,4.6,1695,mg road,quick service restaurant,"continental, south indian, italian, north indian",600,4,buffet,1,budget,medium,1
+Resto_574,1,1,3.4,547,indiranagar,casual dining,"thai, south indian, continental",2000,3,dine-out,0,mid_range,low,1
+Leon Grill,0,0,4.4,652,koramangala,pub,"thai, mexican, desserts, south indian",1500,4,drinks & nightlife,1,mid_range,low,1
+Empire Restaurant,0,1,3,2016,mg road,bakery,"north indian, beverages, chinese, fast food",600,4,dine-out,0,budget,medium,1
+Resto_697,1,1,3,1510,whitefield,pub,fast food,1000,1,cafes,0,mid_range,medium,0
+KFC,1,0,3.7,1597,hsr layout,bakery,"south indian, chinese",600,2,cafes,0,budget,medium,0
+KFC,1,0,4.4,780,jp nagar,casual dining,"north indian, chinese, desserts, italian",3000,4,delivery,1,premium,medium,1
+Resto_773,0,0,4.5,2832,marathahalli,bar,"italian, beverages, chinese",400,3,pubs and bars,1,budget,high,1
+McDonald's,0,1,2.8,353,marathahalli,cafe,"italian, south indian",3000,2,drinks & nightlife,0,premium,low,0
+Pizza Hut,1,1,3.9,2373,indiranagar,casual dining,"fast food, chinese, beverages, desserts",1000,4,delivery,0,mid_range,high,1
+Leon Grill,1,0,4,1857,indiranagar,cafe,"mexican, south indian, chinese, north indian",800,4,dine-out,1,budget,medium,1
+Resto_145,0,0,2.5,1130,mg road,quick service restaurant,"chinese, thai, continental, fast food",2000,4,delivery,0,mid_range,medium,1
+Burger King,0,1,2.2,1008,jp nagar,cafe,"desserts, italian",1500,2,pubs and bars,0,mid_range,medium,0
+Nandhana Palace,0,1,4.5,380,jp nagar,quick service restaurant,south indian,400,1,cafes,1,budget,low,0
+Nandhana Palace,0,0,3.7,2942,mg road,bakery,"italian, south indian, north indian, mexican",400,4,pubs and bars,0,budget,high,1
+Leon Grill,1,0,2.3,1737,marathahalli,cafe,"desserts, south indian, mexican, italian, north indian",1000,5,buffet,0,mid_range,medium,1
+Nandhana Palace,1,1,2.2,2917,marathahalli,bar,"beverages, italian, continental, chinese",200,4,drinks & nightlife,0,budget,high,1
+Resto_297,0,0,4.4,2824,indiranagar,pub,"north indian, mexican, chinese",200,3,cafes,1,budget,high,1
+Burger King,0,1,2.8,166,indiranagar,bar,"chinese, italian, fast food",400,3,dine-out,0,budget,low,1
+Onesta,1,1,2,1478,jayanagar,cafe,"beverages, fast food, thai, italian, chinese",600,5,delivery,0,budget,medium,1
+Leon Grill,0,1,2.6,1257,mg road,bar,"thai, continental, beverages",2000,3,pubs and bars,0,mid_range,medium,1
+Leon Grill,0,0,4.9,1442,hsr layout,fine dining,north indian,800,1,dine-out,1,budget,medium,0
+Resto_93,1,1,2.9,1270,mg road,bar,"desserts, continental, north indian, mexican, thai",800,5,drinks & nightlife,0,budget,medium,1
+McDonald's,0,1,4.4,27,jp nagar,casual dining,thai,200,1,cafes,1,budget,low,0
+Nandhana Palace,0,1,4.7,838,indiranagar,fine dining,desserts,600,1,cafes,1,budget,medium,0
+KFC,1,1,4.1,93,jp nagar,pub,"south indian, desserts",400,2,buffet,1,budget,low,0
+Resto_23,0,1,4.9,156,indiranagar,pub,"thai, fast food, mexican, continental",2500,4,delivery,1,premium,low,1
+Resto_693,1,0,3.6,518,mg road,quick service restaurant,"fast food, continental, desserts, chinese, mexican",200,5,buffet,0,budget,low,1
+Resto_871,0,1,3.5,1685,whitefield,quick service restaurant,"mexican, italian, south indian, fast food, thai",1000,5,dine-out,0,mid_range,medium,1
+Resto_749,1,0,3,1826,hsr layout,cafe,"desserts, italian, fast food",1200,3,buffet,0,mid_range,medium,1
+Resto_393,1,0,4.2,17,indiranagar,cafe,"desserts, thai, south indian, italian, beverages",400,5,cafes,1,budget,low,1
+Resto_621,0,0,4.3,1423,whitefield,fine dining,"continental, north indian, chinese, desserts, fast food",3000,5,dine-out,1,premium,medium,1
+Empire Restaurant,0,0,3.8,2432,koramangala,fine dining,north indian,200,1,cafes,0,budget,high,0
+Resto_217,0,0,2.6,2808,koramangala,quick service restaurant,"chinese, beverages, continental, desserts",3000,4,buffet,0,premium,high,1
+KFC,1,0,3,2230,marathahalli,quick service restaurant,"beverages, thai, mexican, south indian, chinese",200,5,drinks & nightlife,0,budget,high,1
+Pizza Hut,1,1,4.2,2586,jp nagar,fine dining,"fast food, thai, beverages",200,3,dine-out,1,budget,high,1
+Resto_55,1,1,4.7,931,indiranagar,bakery,chinese,2000,1,delivery,1,mid_range,medium,0
+Pizza Hut,0,0,2.9,68,jp nagar,quick service restaurant,mexican,3000,1,drinks & nightlife,0,premium,low,0
+Resto_197,0,1,4,396,indiranagar,fine dining,"beverages, mexican, italian",2500,3,buffet,1,premium,low,1
+Resto_176,0,1,2.8,1244,hsr layout,bakery,"fast food, desserts, italian",2500,3,delivery,0,premium,medium,1
+Resto_306,0,0,2.9,2053,whitefield,bar,continental,1500,1,dine-out,0,mid_range,medium,0
+Nandhana Palace,1,1,3.1,2401,koramangala,quick service restaurant,"south indian, desserts",400,2,dine-out,0,budget,high,0
+Leon Grill,0,1,3.2,1676,marathahalli,bar,"thai, north indian, desserts, chinese, beverages",2500,5,drinks & nightlife,0,premium,medium,1
+Resto_99,0,1,4.8,1309,jp nagar,fine dining,beverages,2500,1,pubs and bars,1,premium,medium,0
+Burger King,0,1,4.4,6,indiranagar,casual dining,"beverages, mexican, continental, thai",1500,4,pubs and bars,1,mid_range,low,1
+Resto_410,1,0,2.8,2255,jayanagar,fine dining,desserts,200,1,buffet,0,budget,high,0
+Pizza Hut,0,0,4.4,2913,indiranagar,bar,south indian,600,1,pubs and bars,1,budget,high,0
+Nandhana Palace,1,1,2.2,1170,marathahalli,bar,mexican,2500,1,cafes,0,premium,medium,0
+Resto_920,0,0,2.4,2360,hsr layout,pub,italian,200,1,buffet,0,budget,high,0
+Pizza Hut,0,1,3.6,1550,indiranagar,casual dining,"italian, fast food, chinese, continental",1000,4,buffet,0,mid_range,medium,1
+Resto_156,0,1,2.6,1572,marathahalli,bakery,"mexican, desserts, beverages, chinese",400,4,delivery,0,budget,medium,1
+Resto_950,1,1,3.8,1208,jayanagar,pub,"continental, mexican, fast food, chinese, north indian",800,5,pubs and bars,0,budget,medium,1
+Resto_993,1,0,4.3,1515,indiranagar,cafe,"chinese, beverages, mexican, south indian, desserts",200,5,cafes,1,budget,medium,1
+Resto_692,0,1,2,789,whitefield,quick service restaurant,"fast food, continental, thai, beverages",1500,4,buffet,0,mid_range,medium,1
+Resto_424,0,1,2.9,523,marathahalli,bar,"thai, mexican, continental",1000,3,cafes,0,mid_range,low,1
+KFC,0,0,4.3,2928,jayanagar,fine dining,"beverages, italian, chinese, south indian",2500,4,delivery,1,premium,high,1
+Nandhana Palace,0,0,3.5,763,hsr layout,pub,"beverages, north indian, fast food, chinese",2500,4,pubs and bars,0,premium,medium,1
+McDonald's,1,1,4.2,1117,marathahalli,pub,"mexican, chinese",800,2,cafes,1,budget,medium,0
+Resto_208,0,1,4.2,232,mg road,fine dining,"south indian, north indian, desserts",1000,3,cafes,1,mid_range,low,1
+Pizza Hut,0,1,3.4,1162,whitefield,quick service restaurant,"italian, thai, continental, beverages, desserts",2500,5,dine-out,0,premium,medium,1
+Resto_564,1,0,2.8,2382,mg road,cafe,"italian, mexican, thai, chinese",2000,4,dine-out,0,mid_range,high,1
+Nandhana Palace,0,0,3,2283,whitefield,quick service restaurant,mexican,400,1,drinks & nightlife,0,budget,high,0
+McDonald's,1,1,4,2936,koramangala,fine dining,"beverages, south indian",2500,2,dine-out,1,premium,high,0
+KFC,0,1,4.4,1782,indiranagar,fine dining,"north indian, desserts",1200,2,dine-out,1,mid_range,medium,0
+McDonald's,1,0,2.2,2593,indiranagar,pub,"italian, thai, beverages, desserts, mexican",600,5,dine-out,0,budget,high,1
+Resto_747,0,1,3.8,1536,koramangala,casual dining,thai,1000,1,delivery,0,mid_range,medium,0
+Nandhana Palace,0,0,4.5,2198,marathahalli,cafe,"north indian, continental, desserts, italian, south indian",600,5,cafes,1,budget,high,1
+Onesta,0,0,2.1,2117,indiranagar,bakery,"mexican, beverages, north indian, thai",2500,4,dine-out,0,premium,medium,1
+Resto_536,1,1,3.5,1489,jayanagar,bakery,italian,1000,1,pubs and bars,0,mid_range,medium,0
+McDonald's,0,1,4.7,975,hsr layout,casual dining,"north indian, italian, mexican, thai, continental",3000,5,delivery,1,premium,medium,1
+McDonald's,0,0,2.5,2484,indiranagar,bar,"south indian, beverages, italian",1000,3,delivery,0,mid_range,high,1
+McDonald's,1,1,3.5,522,whitefield,casual dining,"beverages, north indian, fast food",2500,3,drinks & nightlife,0,premium,low,1
+Resto_506,0,0,4.2,2062,koramangala,cafe,fast food,400,1,buffet,1,budget,medium,0
+Nandhana Palace,1,1,2.5,720,koramangala,bar,"desserts, south indian, continental, north indian",200,4,drinks & nightlife,0,budget,medium,1
+Leon Grill,0,1,4.3,779,indiranagar,casual dining,"thai, mexican, beverages, italian",200,4,cafes,1,budget,medium,1
+Onesta,1,0,4.5,1593,jp nagar,cafe,"italian, north indian, mexican, beverages, south indian",800,5,dine-out,1,budget,medium,1
+Resto_204,0,0,3.8,507,koramangala,cafe,"desserts, fast food, south indian",2000,3,dine-out,0,mid_range,low,1
+KFC,0,1,4.2,2377,koramangala,bar,"desserts, south indian, beverages",2000,3,dine-out,1,mid_range,high,1
+McDonald's,1,0,3.7,718,mg road,quick service restaurant,"south indian, fast food, north indian",3000,3,buffet,0,premium,medium,1
+KFC,0,1,4.8,2048,indiranagar,bar,"thai, south indian, italian, desserts, fast food",400,5,buffet,1,budget,medium,1
+Pizza Hut,0,1,2,1456,hsr layout,fine dining,"south indian, continental, north indian",2500,3,pubs and bars,0,premium,medium,1
+KFC,1,1,3.1,1395,hsr layout,bar,"mexican, fast food, thai, continental, desserts",800,5,delivery,0,budget,medium,1
+Resto_743,0,1,4.7,861,jayanagar,quick service restaurant,"italian, mexican",600,2,buffet,1,budget,medium,0
+Resto_483,1,1,3.1,1532,jp nagar,pub,"italian, north indian, fast food, mexican",2500,4,dine-out,0,premium,medium,1
+Resto_365,0,1,2.6,1929,marathahalli,casual dining,"south indian, italian, desserts, chinese",1500,4,pubs and bars,0,mid_range,medium,1
+Resto_910,1,1,4.4,978,mg road,casual dining,"north indian, chinese, continental, desserts",2500,4,buffet,1,premium,medium,1
+Empire Restaurant,1,0,4,39,jp nagar,casual dining,"continental, chinese, italian, fast food",800,4,pubs and bars,1,budget,low,1
+Resto_13,0,0,3.2,240,jayanagar,bakery,mexican,1000,1,cafes,0,mid_range,low,0
+Resto_891,1,0,2.5,414,jayanagar,fine dining,"continental, north indian, beverages, fast food, chinese",2500,5,drinks & nightlife,0,premium,low,1
+KFC,1,0,3.8,1753,jayanagar,pub,"italian, fast food",200,2,buffet,0,budget,medium,0
+Resto_829,1,0,3.2,53,whitefield,fine dining,"thai, continental",3000,2,buffet,0,premium,low,0
+Resto_51,1,0,3.7,559,indiranagar,quick service restaurant,"thai, beverages, continental, mexican",200,4,dine-out,0,budget,low,1
+Burger King,0,1,2.1,2057,jp nagar,bar,desserts,400,1,pubs and bars,0,budget,medium,0
+Resto_815,1,0,4.7,454,hsr layout,fine dining,"continental, chinese, thai",3000,3,buffet,1,premium,low,1
+Leon Grill,0,0,4.7,2989,hsr layout,fine dining,"mexican, thai, desserts",2500,3,delivery,1,premium,high,1
+Burger King,1,1,4.8,375,hsr layout,bakery,"desserts, thai, south indian, fast food",1000,4,dine-out,1,mid_range,low,1
+Resto_445,1,0,4.2,26,hsr layout,bar,"thai, continental, south indian, north indian",1000,4,pubs and bars,1,mid_range,low,1
+Resto_31,0,0,4.5,1716,hsr layout,bakery,"continental, mexican",2000,2,pubs and bars,1,mid_range,medium,0
+Resto_833,1,0,3.8,2301,jayanagar,bar,"thai, desserts, fast food",3000,3,buffet,0,premium,high,1
+Resto_685,0,0,4.6,2184,hsr layout,bakery,desserts,1500,1,dine-out,1,mid_range,high,0
+Pizza Hut,1,1,2.6,1162,koramangala,bakery,"south indian, desserts, beverages",1200,3,pubs and bars,0,mid_range,medium,1
+Burger King,0,1,4.4,2949,jp nagar,bakery,"fast food, beverages, north indian, continental, desserts",2000,5,buffet,1,mid_range,high,1
+Empire Restaurant,1,1,3.4,1322,jp nagar,pub,"fast food, north indian, thai, desserts",400,4,cafes,0,budget,medium,1
+Resto_402,1,1,3.1,2391,koramangala,bar,"mexican, chinese, fast food",1200,3,delivery,0,mid_range,high,1
+Resto_20,0,1,2.1,1493,koramangala,quick service restaurant,"italian, chinese",1200,2,dine-out,0,mid_range,medium,0
+Onesta,0,0,4.9,2353,whitefield,bakery,"beverages, continental",1500,2,buffet,1,mid_range,high,0
+McDonald's,1,0,4.2,1176,whitefield,cafe,italian,1000,1,delivery,1,mid_range,medium,0
+Resto_157,0,1,3.6,2028,indiranagar,pub,continental,2500,1,pubs and bars,0,premium,medium,0
+Nandhana Palace,0,0,3.1,1882,koramangala,casual dining,"beverages, continental",600,2,pubs and bars,0,budget,medium,0
+Nandhana Palace,0,0,4,1124,jp nagar,pub,"beverages, italian, fast food, continental",200,4,cafes,1,budget,medium,1
+Leon Grill,0,1,4.8,2852,mg road,fine dining,"thai, south indian",1200,2,drinks & nightlife,1,mid_range,high,0
+Onesta,0,0,3.6,1865,jp nagar,bar,"italian, mexican",800,2,drinks & nightlife,0,budget,medium,0
+KFC,0,0,4.8,1854,jayanagar,cafe,"fast food, beverages, continental, mexican",2500,4,dine-out,1,premium,medium,1
+Resto_220,0,0,2.3,715,koramangala,bar,"thai, fast food, mexican",400,3,dine-out,0,budget,medium,1
+Resto_716,0,0,4.8,457,jayanagar,bakery,"mexican, chinese, south indian, north indian, desserts",3000,5,cafes,1,premium,low,1
+KFC,0,1,2.8,2719,jp nagar,casual dining,"continental, italian",800,2,cafes,0,budget,high,0
+Resto_54,1,1,4.8,1386,mg road,fine dining,thai,2500,1,buffet,1,premium,medium,0
+Resto_461,1,0,2.7,495,koramangala,cafe,"fast food, italian",2000,2,delivery,0,mid_range,low,0
+KFC,1,0,2.3,2061,whitefield,cafe,north indian,1000,1,cafes,0,mid_range,medium,0
+Leon Grill,0,1,2,2873,hsr layout,cafe,beverages,2000,1,buffet,0,mid_range,high,0
+Onesta,1,1,2.6,396,koramangala,quick service restaurant,fast food,1500,1,dine-out,0,mid_range,low,0
+Resto_294,0,0,3.6,1329,jp nagar,bakery,"thai, italian, beverages, desserts",2500,4,cafes,0,premium,medium,1
+Resto_524,1,1,4.1,656,jp nagar,bakery,"italian, continental, desserts",400,3,delivery,1,budget,low,1
+Empire Restaurant,1,1,3.1,2617,jp nagar,bar,beverages,800,1,cafes,0,budget,high,0
+Nandhana Palace,1,1,2.4,1760,mg road,pub,"north indian, mexican, fast food, continental, italian",600,5,cafes,0,budget,medium,1
+Resto_967,0,0,3.6,601,jp nagar,pub,continental,200,1,dine-out,0,budget,low,0
+Nandhana Palace,1,0,2.1,2565,jp nagar,bar,"italian, chinese, desserts",800,3,buffet,0,budget,high,1
+Resto_972,1,0,2.4,2406,whitefield,bar,"continental, north indian, beverages, mexican, chinese",2000,5,pubs and bars,0,mid_range,high,1
+McDonald's,1,1,3.1,2938,mg road,fine dining,"mexican, italian, beverages, south indian, north indian",1000,5,pubs and bars,0,mid_range,high,1
+Resto_714,0,1,4,435,marathahalli,bar,thai,400,1,dine-out,1,budget,low,0
+Resto_894,1,1,2.6,621,mg road,pub,"continental, italian, north indian, desserts, chinese",200,5,dine-out,0,budget,low,1
+Resto_733,0,1,4.1,1002,whitefield,quick service restaurant,"desserts, thai, fast food",1000,3,dine-out,1,mid_range,medium,1
+Empire Restaurant,1,0,2.4,2312,hsr layout,casual dining,"italian, fast food, beverages, south indian, chinese",3000,5,buffet,0,premium,high,1
+Resto_592,0,1,2.9,2760,mg road,quick service restaurant,"north indian, desserts, south indian, thai, italian",3000,5,cafes,0,premium,high,1
+Resto_122,0,0,2.6,547,marathahalli,cafe,"fast food, thai, mexican, beverages",2500,4,pubs and bars,0,premium,low,1
+Pizza Hut,1,1,3.6,641,koramangala,bakery,"fast food, desserts, continental, north indian",800,4,delivery,0,budget,low,1
+Nandhana Palace,1,0,3.4,656,hsr layout,bakery,"mexican, fast food",3000,2,dine-out,0,premium,low,0
+Pizza Hut,1,0,3.3,339,jayanagar,bakery,"italian, south indian, fast food, mexican, north indian",800,5,buffet,0,budget,low,1
+McDonald's,0,0,3.8,2650,indiranagar,quick service restaurant,"thai, chinese, desserts, mexican, south indian",800,5,pubs and bars,0,budget,high,1
+Resto_413,1,0,4,462,jp nagar,pub,"desserts, italian, continental, mexican",600,4,delivery,1,budget,low,1
+Resto_259,0,0,3.6,2312,jp nagar,pub,"mexican, italian, fast food",2500,3,drinks & nightlife,0,premium,high,1
+Burger King,1,1,4.7,1697,jayanagar,pub,"fast food, south indian, italian, chinese",1500,4,drinks & nightlife,1,mid_range,medium,1
+Onesta,0,0,4.8,260,marathahalli,bakery,"beverages, desserts, mexican, continental, chinese",3000,5,pubs and bars,1,premium,low,1
+Onesta,1,1,2.9,339,jp nagar,pub,"italian, chinese",400,2,delivery,0,budget,low,0
+Leon Grill,0,1,3.5,481,indiranagar,bakery,"fast food, beverages",200,2,drinks & nightlife,0,budget,low,0
+McDonald's,1,1,3.3,1122,indiranagar,casual dining,"south indian, thai",2000,2,pubs and bars,0,mid_range,medium,0
+Resto_655,0,1,2.1,1424,koramangala,pub,"continental, italian, north indian",1200,3,pubs and bars,0,mid_range,medium,1
+Resto_127,0,1,4.7,2969,indiranagar,casual dining,"fast food, north indian, italian, chinese",400,4,buffet,1,budget,high,1
+Onesta,0,1,3,1102,jp nagar,quick service restaurant,"south indian, fast food, italian, mexican",3000,4,delivery,0,premium,medium,1
+Resto_140,1,1,4.1,1631,indiranagar,quick service restaurant,"fast food, italian",3000,2,cafes,1,premium,medium,0
+Burger King,0,0,3.7,676,marathahalli,bakery,"fast food, continental, italian, north indian, beverages",400,5,delivery,0,budget,low,1
+Empire Restaurant,1,0,4.8,1352,jp nagar,fine dining,continental,2500,1,cafes,1,premium,medium,0
+Pizza Hut,1,0,4.8,2315,jp nagar,casual dining,"desserts, italian, beverages, south indian",200,4,dine-out,1,budget,high,1
+KFC,1,0,2.8,2803,jp nagar,cafe,"thai, desserts, south indian, beverages, italian",600,5,buffet,0,budget,high,1
+Resto_859,0,1,2.3,2800,jayanagar,pub,beverages,2000,1,drinks & nightlife,0,mid_range,high,0
+Resto_487,1,0,3,1847,marathahalli,bakery,"thai, desserts, fast food, south indian",1500,4,drinks & nightlife,0,mid_range,medium,1
+Resto_263,1,1,2.3,1130,mg road,quick service restaurant,"mexican, italian, north indian, thai",400,4,drinks & nightlife,0,budget,medium,1
+Resto_369,0,1,2.3,1965,whitefield,cafe,"fast food, north indian, desserts, italian",600,4,drinks & nightlife,0,budget,medium,1
+Burger King,1,0,4.6,604,marathahalli,fine dining,"beverages, south indian, desserts, mexican",1200,4,drinks & nightlife,1,mid_range,low,1
+Leon Grill,1,1,2.7,2543,jayanagar,bar,"north indian, thai, chinese",1000,3,dine-out,0,mid_range,high,1
+Resto_56,1,0,3.2,1000,mg road,pub,"south indian, fast food",400,2,cafes,0,budget,medium,0
+Leon Grill,0,1,4.2,2634,jp nagar,fine dining,"north indian, mexican, south indian, thai, beverages",800,5,pubs and bars,1,budget,high,1
+Resto_546,1,0,3.2,1552,jayanagar,quick service restaurant,thai,800,1,drinks & nightlife,0,budget,medium,0
+Resto_690,0,1,3.5,837,jp nagar,pub,"continental, desserts, beverages, chinese, south indian",600,5,drinks & nightlife,0,budget,medium,1
+Resto_740,1,0,3.6,880,marathahalli,quick service restaurant,"north indian, mexican, chinese, thai, italian",800,5,drinks & nightlife,0,budget,medium,1
+Onesta,0,0,2.9,320,hsr layout,cafe,"south indian, mexican, desserts",2000,3,buffet,0,mid_range,low,1
+Resto_987,0,0,3.5,146,marathahalli,casual dining,"south indian, italian, mexican",2000,3,delivery,0,mid_range,low,1
+Resto_348,1,0,4,278,koramangala,bakery,beverages,400,1,pubs and bars,1,budget,low,0
+Leon Grill,0,1,4.7,1686,hsr layout,quick service restaurant,"chinese, mexican",200,2,cafes,1,budget,medium,0
+Onesta,1,1,4.4,1366,hsr layout,quick service restaurant,chinese,1200,1,drinks & nightlife,1,mid_range,medium,0
+KFC,0,0,4.1,255,jayanagar,pub,"beverages, thai",2000,2,cafes,1,mid_range,low,0
+Resto_286,1,1,3.7,2829,marathahalli,fine dining,"south indian, thai, chinese, desserts, mexican",2000,5,delivery,0,mid_range,high,1
+Resto_827,1,0,3.3,2710,jayanagar,cafe,"south indian, italian, chinese, north indian, beverages",2000,5,delivery,0,mid_range,high,1
+Nandhana Palace,1,1,3.3,1728,jayanagar,quick service restaurant,"italian, chinese, desserts, mexican",2500,4,dine-out,0,premium,medium,1
+McDonald's,0,0,4.3,1741,mg road,quick service restaurant,continental,2000,1,drinks & nightlife,1,mid_range,medium,0
+Resto_322,0,1,2.6,2520,mg road,bakery,thai,1200,1,pubs and bars,0,mid_range,high,0
+Resto_591,0,0,3.6,658,mg road,quick service restaurant,"mexican, north indian, italian, beverages, thai",3000,5,delivery,0,premium,low,1
+Empire Restaurant,1,1,2.8,2521,marathahalli,cafe,"thai, continental",3000,2,pubs and bars,0,premium,high,0
+Resto_115,0,0,4,1555,mg road,bar,"south indian, continental, north indian",1000,3,cafes,1,mid_range,medium,1
+Burger King,0,0,2.6,1736,jayanagar,pub,"continental, fast food",3000,2,cafes,0,premium,medium,0
+Resto_47,1,0,3.3,1139,jayanagar,pub,"desserts, chinese, fast food, south indian",1500,4,drinks & nightlife,0,mid_range,medium,1
+McDonald's,1,0,3.2,867,marathahalli,quick service restaurant,"continental, thai, south indian",3000,3,delivery,0,premium,medium,1
+Empire Restaurant,0,1,3.4,617,koramangala,bakery,thai,400,1,dine-out,0,budget,low,0
+McDonald's,0,0,3,1870,koramangala,casual dining,south indian,1000,1,drinks & nightlife,0,mid_range,medium,0
+Resto_626,0,0,4.5,716,whitefield,fine dining,"thai, mexican, beverages",1000,3,buffet,1,mid_range,medium,1
+Burger King,0,0,3.3,500,whitefield,bakery,"italian, south indian, north indian, desserts",200,4,dine-out,0,budget,low,1
+Nandhana Palace,1,1,2.6,696,mg road,bar,"chinese, continental, beverages, desserts",2500,4,delivery,0,premium,medium,1
+Leon Grill,0,0,2.5,1652,koramangala,cafe,"south indian, italian",200,2,drinks & nightlife,0,budget,medium,0
+Burger King,0,0,4.4,656,whitefield,pub,thai,1500,1,pubs and bars,1,mid_range,low,0
+McDonald's,0,1,3.5,1076,koramangala,pub,italian,2500,1,cafes,0,premium,medium,0
+Nandhana Palace,1,1,4.4,1195,jp nagar,fine dining,north indian,600,1,drinks & nightlife,1,budget,medium,0
+Onesta,1,1,2.3,2798,jayanagar,pub,"fast food, south indian, desserts",600,3,buffet,0,budget,high,1
+Resto_945,1,1,3.7,1952,whitefield,bakery,"chinese, south indian, beverages, mexican, desserts",2500,5,cafes,0,premium,medium,1
+Resto_146,1,0,3.8,1349,marathahalli,quick service restaurant,"fast food, south indian, continental, beverages",3000,4,drinks & nightlife,0,premium,medium,1
+Onesta,1,0,2.6,586,koramangala,cafe,"chinese, continental, desserts, fast food",2000,4,dine-out,0,mid_range,low,1
+Empire Restaurant,1,0,2.1,1366,jayanagar,fine dining,"south indian, desserts, mexican",2500,3,buffet,0,premium,medium,1
+Leon Grill,1,0,4.7,207,jayanagar,pub,"mexican, desserts, north indian, italian",1500,4,drinks & nightlife,1,mid_range,low,1
+Resto_735,0,0,2.1,866,whitefield,cafe,"north indian, continental, thai, desserts, beverages",2500,5,pubs and bars,0,premium,medium,1
+KFC,0,1,4.6,2340,jayanagar,bar,"continental, beverages, chinese",600,3,buffet,1,budget,high,1
+Empire Restaurant,1,0,4.6,362,koramangala,bakery,"desserts, chinese",1200,2,dine-out,1,mid_range,low,0
+Resto_704,0,0,2.5,816,jayanagar,quick service restaurant,"desserts, continental, chinese",2000,3,pubs and bars,0,mid_range,medium,1
+McDonald's,1,0,2.3,2759,jp nagar,casual dining,"south indian, desserts, thai, fast food, chinese",3000,5,pubs and bars,0,premium,high,1
+Onesta,1,1,2.8,2302,whitefield,cafe,fast food,3000,1,pubs and bars,0,premium,high,0
+Resto_163,0,1,4.5,1807,marathahalli,casual dining,"italian, south indian, continental, chinese",1000,4,delivery,1,mid_range,medium,1
+Resto_516,0,0,3.5,2183,mg road,pub,"mexican, chinese, beverages",3000,3,drinks & nightlife,0,premium,high,1
+Resto_644,1,1,3.2,2238,indiranagar,quick service restaurant,"beverages, desserts",800,2,drinks & nightlife,0,budget,high,0
+Resto_103,0,1,3.8,382,jayanagar,pub,"south indian, fast food, thai, mexican, continental",200,5,delivery,0,budget,low,1
+Resto_98,1,1,3.4,1585,indiranagar,quick service restaurant,"desserts, italian, continental",2000,3,cafes,0,mid_range,medium,1
+Resto_272,0,1,4.5,2117,jp nagar,bar,"continental, fast food, north indian, italian",400,4,drinks & nightlife,1,budget,medium,1
+Resto_508,1,0,2.8,97,hsr layout,bar,"thai, italian, beverages",2500,3,buffet,0,premium,low,1
+Resto_434,0,0,3.3,2745,marathahalli,pub,"thai, south indian, italian",600,3,cafes,0,budget,high,1
+Resto_763,0,0,3.3,2419,whitefield,bar,"thai, mexican",1200,2,pubs and bars,0,mid_range,high,0
+Resto_482,1,0,4.6,1386,hsr layout,quick service restaurant,"italian, thai, beverages, desserts",600,4,delivery,1,budget,medium,1
+Leon Grill,0,0,2,2014,marathahalli,quick service restaurant,mexican,1000,1,dine-out,0,mid_range,medium,0
+Pizza Hut,0,0,4.3,630,whitefield,quick service restaurant,"chinese, continental, mexican, fast food",2000,4,delivery,1,mid_range,low,1
+McDonald's,0,0,2.6,182,marathahalli,casual dining,desserts,1500,1,cafes,0,mid_range,low,0
+Pizza Hut,1,0,4.4,261,indiranagar,casual dining,"fast food, italian, chinese, mexican",800,4,delivery,1,budget,low,1
+Resto_138,1,0,4.5,2677,koramangala,casual dining,"mexican, fast food, desserts, north indian",200,4,cafes,1,budget,high,1
+Resto_299,0,0,3.7,368,hsr layout,bakery,"mexican, south indian, beverages",1200,3,drinks & nightlife,0,mid_range,low,1
+Empire Restaurant,1,1,4.3,1106,jayanagar,casual dining,"thai, chinese, desserts, continental",400,4,drinks & nightlife,1,budget,medium,1
+Onesta,0,0,4.3,1736,mg road,cafe,"fast food, chinese, south indian, beverages, desserts",2000,5,delivery,1,mid_range,medium,1
+Resto_864,1,0,3.6,2282,whitefield,bakery,south indian,3000,1,dine-out,0,premium,high,0
+KFC,0,0,3.7,373,whitefield,fine dining,"thai, continental, mexican, beverages",600,4,cafes,0,budget,low,1
+Resto_801,1,1,3.4,520,koramangala,bakery,"chinese, fast food, italian, north indian",1500,4,cafes,0,mid_range,low,1
+Nandhana Palace,0,1,2.1,145,marathahalli,pub,"thai, mexican",2000,2,delivery,0,mid_range,low,0
+Pizza Hut,0,1,4.2,1218,hsr layout,bar,"desserts, thai",1500,2,cafes,1,mid_range,medium,0
+Resto_353,1,0,3.7,2111,marathahalli,bakery,"mexican, chinese, italian, north indian",1500,4,buffet,0,mid_range,medium,1
+Resto_553,0,1,4.3,422,jayanagar,cafe,"south indian, italian, chinese, desserts, beverages",200,5,cafes,1,budget,low,1
+Onesta,1,0,2.1,2062,hsr layout,bar,"thai, north indian",3000,2,drinks & nightlife,0,premium,medium,0
+Resto_378,1,0,2.4,1836,jayanagar,pub,"chinese, north indian, mexican",2000,3,dine-out,0,mid_range,medium,1
+Leon Grill,1,1,2.3,963,marathahalli,pub,"thai, mexican, italian, fast food, beverages",1200,5,dine-out,0,mid_range,medium,1
+Empire Restaurant,1,0,3.9,2703,jp nagar,bar,north indian,1000,1,cafes,0,mid_range,high,0
+McDonald's,1,0,3.5,2636,indiranagar,bar,"italian, chinese, beverages",400,3,dine-out,0,budget,high,1
+Resto_164,1,1,2.9,2864,hsr layout,bakery,chinese,200,1,buffet,0,budget,high,0
+Onesta,0,1,2.9,607,indiranagar,cafe,"fast food, beverages, thai",1500,3,cafes,0,mid_range,low,1
+Onesta,1,1,4.9,1484,marathahalli,pub,"south indian, desserts, north indian, italian, thai",3000,5,drinks & nightlife,1,premium,medium,1
+Resto_499,0,1,2.4,2745,marathahalli,bakery,"chinese, fast food, italian, thai",2000,4,dine-out,0,mid_range,high,1
+Resto_637,1,1,4.2,985,jayanagar,pub,"italian, desserts, beverages, south indian, mexican",400,5,pubs and bars,1,budget,medium,1
+Resto_58,0,1,4.5,436,hsr layout,bakery,"thai, continental, beverages, north indian, fast food",1500,5,drinks & nightlife,1,mid_range,low,1
+Resto_940,1,0,3.8,1823,whitefield,quick service restaurant,"fast food, italian, north indian",800,3,delivery,0,budget,medium,1
+Leon Grill,0,0,2,930,marathahalli,quick service restaurant,"mexican, desserts, beverages, south indian",800,4,dine-out,0,budget,medium,1
+Empire Restaurant,0,0,2.5,2448,mg road,bar,"fast food, mexican, continental, beverages, desserts",3000,5,buffet,0,premium,high,1
+Leon Grill,0,0,4,1929,indiranagar,casual dining,"chinese, north indian, continental, fast food, beverages",200,5,pubs and bars,1,budget,medium,1
+Leon Grill,1,1,2.2,967,hsr layout,bakery,italian,600,1,cafes,0,budget,medium,0
+McDonald's,0,1,3,967,koramangala,fine dining,desserts,1000,1,pubs and bars,0,mid_range,medium,0
+Nandhana Palace,1,0,4.3,391,jp nagar,fine dining,"continental, beverages, fast food, desserts, north indian",200,5,drinks & nightlife,1,budget,low,1
+McDonald's,1,0,4.5,583,jayanagar,cafe,"fast food, continental",800,2,pubs and bars,1,budget,low,0
+Onesta,1,0,3.2,2309,koramangala,pub,"continental, north indian, mexican, south indian",200,4,cafes,0,budget,high,1
+KFC,0,0,3.6,2498,marathahalli,cafe,thai,1000,1,drinks & nightlife,0,mid_range,high,0
+Resto_233,0,1,4,2301,hsr layout,fine dining,"mexican, italian, continental, thai, fast food",200,5,pubs and bars,1,budget,high,1
+Leon Grill,0,1,2.1,2627,jayanagar,pub,beverages,1000,1,drinks & nightlife,0,mid_range,high,0
+Empire Restaurant,0,0,3.6,653,indiranagar,casual dining,"italian, fast food, mexican",1200,3,drinks & nightlife,0,mid_range,low,1
+Pizza Hut,0,1,3.6,2466,mg road,casual dining,"continental, south indian, italian, mexican",1500,4,cafes,0,mid_range,high,1
+Resto_154,0,1,4.5,2528,jayanagar,bar,"fast food, chinese, south indian",1200,3,dine-out,1,mid_range,high,1
+Resto_665,1,0,3.8,1838,mg road,cafe,"south indian, beverages, italian, mexican, desserts",3000,5,drinks & nightlife,0,premium,medium,1
+McDonald's,1,0,2.2,128,whitefield,bakery,"desserts, fast food",1500,2,dine-out,0,mid_range,low,0
+Onesta,0,0,3.3,2528,hsr layout,bar,"fast food, desserts, north indian, beverages, south indian",1200,5,buffet,0,mid_range,high,1
+Resto_442,1,1,2.8,2772,jayanagar,cafe,"north indian, chinese, thai, italian, fast food",3000,5,drinks & nightlife,0,premium,high,1
+Onesta,1,0,2.1,2415,koramangala,cafe,"fast food, desserts",200,2,buffet,0,budget,high,0
+Leon Grill,1,1,3.2,1870,koramangala,pub,"beverages, continental, italian, desserts, fast food",3000,5,dine-out,0,premium,medium,1
+Burger King,0,1,4.1,1037,jp nagar,quick service restaurant,"chinese, beverages, north indian, desserts, thai",2000,5,delivery,1,mid_range,medium,1
+Nandhana Palace,0,0,4.1,2235,whitefield,fine dining,"continental, thai, desserts, north indian",1200,4,delivery,1,mid_range,high,1
+Resto_387,1,1,4.5,2805,whitefield,quick service restaurant,"chinese, beverages, thai",600,3,drinks & nightlife,1,budget,high,1
+McDonald's,0,0,4.1,2152,marathahalli,fine dining,"desserts, continental, mexican, thai",3000,4,dine-out,1,premium,high,1
+Resto_203,0,1,3.5,2329,koramangala,cafe,"italian, north indian",800,2,pubs and bars,0,budget,high,0
+Resto_711,1,0,3.1,870,marathahalli,fine dining,"desserts, italian, chinese, beverages",600,4,drinks & nightlife,0,budget,medium,1
+Resto_627,0,0,4.8,2043,jayanagar,bakery,"beverages, continental",3000,2,cafes,1,premium,medium,0
+Empire Restaurant,1,0,2.5,1164,jayanagar,bakery,"thai, north indian, chinese, mexican, south indian",1200,5,cafes,0,mid_range,medium,1
+McDonald's,0,1,4.3,2953,jp nagar,quick service restaurant,"south indian, continental, italian, mexican, thai",200,5,drinks & nightlife,1,budget,high,1
+Resto_125,1,1,2.2,1933,koramangala,quick service restaurant,"south indian, fast food, mexican, beverages",1500,4,delivery,0,mid_range,medium,1
+Nandhana Palace,0,1,3.7,350,koramangala,casual dining,"thai, chinese, south indian, north indian",2000,4,delivery,0,mid_range,low,1
+Leon Grill,1,1,4.4,223,mg road,quick service restaurant,"italian, fast food",400,2,buffet,1,budget,low,0
+Resto_753,1,0,3.9,820,jp nagar,fine dining,"south indian, italian, fast food, chinese, desserts",600,5,dine-out,0,budget,medium,1
+McDonald's,1,0,4.5,2111,indiranagar,fine dining,desserts,2000,1,buffet,1,mid_range,medium,0
+Leon Grill,0,1,2,2570,whitefield,quick service restaurant,"thai, beverages, mexican, chinese, desserts",3000,5,drinks & nightlife,0,premium,high,1
+Resto_908,0,0,4.9,2508,hsr layout,bakery,desserts,3000,1,drinks & nightlife,1,premium,high,0
+Resto_147,0,0,4,2011,hsr layout,quick service restaurant,"continental, mexican, thai, north indian",3000,4,pubs and bars,1,premium,medium,1
+Resto_922,0,0,2.8,2420,hsr layout,casual dining,"south indian, fast food, chinese",200,3,pubs and bars,0,budget,high,1
+Resto_192,0,1,2.1,1794,mg road,cafe,"desserts, mexican, thai, continental",1500,4,dine-out,0,mid_range,medium,1
+Empire Restaurant,1,1,4.4,2897,indiranagar,cafe,"desserts, fast food",600,2,dine-out,1,budget,high,0
+Onesta,0,1,2.6,1090,whitefield,fine dining,"mexican, south indian, fast food, desserts",800,4,cafes,0,budget,medium,1
+Onesta,1,1,3.2,1206,marathahalli,cafe,north indian,800,1,cafes,0,budget,medium,0
+Burger King,1,0,4.9,2167,whitefield,pub,chinese,2500,1,drinks & nightlife,1,premium,high,0
+Onesta,1,1,4.4,98,jayanagar,casual dining,"beverages, fast food",1500,2,cafes,1,mid_range,low,0
+Empire Restaurant,0,0,2.8,2655,mg road,bakery,desserts,3000,1,pubs and bars,0,premium,high,0
+Resto_289,0,1,3.8,1491,hsr layout,quick service restaurant,beverages,1500,1,buffet,0,mid_range,medium,0
+Resto_671,0,1,2.5,1179,whitefield,bakery,"italian, south indian, continental, beverages",3000,4,dine-out,0,premium,medium,1
+Nandhana Palace,0,1,3.5,2063,koramangala,cafe,"continental, south indian, fast food, north indian, desserts",200,5,cafes,0,budget,medium,1
+Resto_74,1,1,3.9,1989,marathahalli,bakery,"italian, beverages, chinese",1200,3,buffet,0,mid_range,medium,1
+Leon Grill,0,1,3.7,1374,indiranagar,casual dining,"south indian, mexican, fast food",1200,3,buffet,0,mid_range,medium,1
+Leon Grill,1,0,3.5,949,indiranagar,pub,fast food,600,1,dine-out,0,budget,medium,0
+Resto_171,1,0,4.1,977,koramangala,cafe,mexican,400,1,pubs and bars,1,budget,medium,0
+Resto_155,1,0,2.4,1571,mg road,cafe,"beverages, south indian, fast food, italian",1000,4,buffet,0,mid_range,medium,1
+Nandhana Palace,1,0,3.5,507,koramangala,bar,desserts,1000,1,drinks & nightlife,0,mid_range,low,0
+Onesta,0,1,4.7,221,jp nagar,quick service restaurant,"mexican, continental",1200,2,delivery,1,mid_range,low,0
+Leon Grill,1,1,4.3,2857,jp nagar,pub,thai,3000,1,buffet,1,premium,high,0
+Resto_29,1,0,3.5,2567,hsr layout,quick service restaurant,"chinese, continental, italian, south indian",1200,4,dine-out,0,mid_range,high,1
+Resto_633,1,0,4.5,1885,koramangala,casual dining,continental,400,1,buffet,1,budget,medium,0
+Leon Grill,0,0,3,1630,jayanagar,bar,"desserts, mexican, italian, north indian",1000,4,delivery,0,mid_range,medium,1
+Resto_428,0,0,4.8,2433,koramangala,quick service restaurant,fast food,2000,1,delivery,1,mid_range,high,0
+Resto_792,1,0,2.3,2797,jayanagar,pub,"south indian, chinese, desserts, beverages, continental",600,5,pubs and bars,0,budget,high,1
+Resto_796,1,1,3.1,1440,koramangala,bar,"beverages, fast food, south indian, continental",1200,4,delivery,0,mid_range,medium,1
+Resto_106,0,1,2.1,1573,mg road,cafe,"thai, fast food",800,2,cafes,0,budget,medium,0
+KFC,1,1,2.7,190,indiranagar,fine dining,"south indian, italian, continental, north indian",3000,4,pubs and bars,0,premium,low,1
+Resto_276,0,1,3.2,391,indiranagar,bakery,"north indian, fast food, mexican, continental, beverages",400,5,pubs and bars,0,budget,low,1
+Resto_293,1,1,3.6,432,jp nagar,fine dining,"mexican, chinese, south indian, fast food",600,4,pubs and bars,0,budget,low,1
+Resto_909,0,1,4.5,1898,hsr layout,quick service restaurant,"italian, desserts, continental, south indian, thai",200,5,drinks & nightlife,1,budget,medium,1
+KFC,0,0,3.5,2750,jayanagar,casual dining,"south indian, desserts, italian, thai, mexican",2000,5,buffet,0,mid_range,high,1
+Leon Grill,0,0,3.9,1268,jp nagar,bakery,"italian, chinese, desserts, south indian, mexican",1500,5,delivery,0,mid_range,medium,1
+Burger King,1,1,4.1,652,indiranagar,bakery,"desserts, fast food, south indian, continental, italian",1200,5,cafes,1,mid_range,low,1
+McDonald's,1,1,3.6,2206,marathahalli,pub,"italian, mexican, chinese, continental, thai",1500,5,dine-out,0,mid_range,high,1
+Onesta,1,0,2.5,331,marathahalli,quick service restaurant,"thai, north indian",200,2,buffet,0,budget,low,0
+Resto_356,0,0,4.4,1840,koramangala,casual dining,"north indian, thai, fast food",1500,3,pubs and bars,1,mid_range,medium,1
+Resto_234,1,1,2.6,1814,hsr layout,fine dining,"fast food, beverages, italian",800,3,dine-out,0,budget,medium,1
+Leon Grill,0,0,4.5,546,whitefield,cafe,"thai, continental, italian, north indian, desserts",1200,5,delivery,1,mid_range,low,1
+Resto_813,1,0,3.6,1923,whitefield,fine dining,"chinese, south indian",2000,2,cafes,0,mid_range,medium,0
+Pizza Hut,1,0,2.9,1851,koramangala,casual dining,"continental, chinese, beverages",3000,3,buffet,0,premium,medium,1
+Burger King,1,0,3.1,2412,indiranagar,bakery,"continental, desserts",800,2,buffet,0,budget,high,0
+Burger King,1,1,3.7,2120,jayanagar,quick service restaurant,continental,800,1,pubs and bars,0,budget,high,0
+Leon Grill,0,0,2.4,668,koramangala,quick service restaurant,"mexican, thai, north indian",1000,3,pubs and bars,0,mid_range,low,1
+Onesta,0,0,3.6,1210,indiranagar,cafe,continental,1500,1,pubs and bars,0,mid_range,medium,0
+Onesta,0,0,3.1,171,koramangala,bakery,"north indian, thai",200,2,cafes,0,budget,low,0
+Resto_971,0,0,2.2,887,koramangala,pub,"mexican, chinese, south indian, fast food",800,4,delivery,0,budget,medium,1
+Resto_628,0,1,2.6,2429,indiranagar,casual dining,"continental, north indian, mexican, south indian",200,4,drinks & nightlife,0,budget,high,1
+Resto_666,1,0,4.9,2359,marathahalli,fine dining,"south indian, desserts",200,2,buffet,1,budget,high,0
+Burger King,0,0,3.2,667,jayanagar,pub,"desserts, fast food",600,2,pubs and bars,0,budget,low,0
+Burger King,0,0,4.5,566,marathahalli,fine dining,"beverages, thai, continental",2500,3,drinks & nightlife,1,premium,low,1
+McDonald's,0,0,3.6,1255,jayanagar,bar,"italian, desserts, thai",1000,3,drinks & nightlife,0,mid_range,medium,1
+Resto_636,0,1,3.3,227,indiranagar,quick service restaurant,"desserts, south indian, italian, mexican",2500,4,cafes,0,premium,low,1
+Resto_117,1,0,3.4,2790,jayanagar,casual dining,"south indian, mexican, desserts, italian, thai",800,5,drinks & nightlife,0,budget,high,1
+Resto_562,1,1,2.6,475,koramangala,fine dining,"fast food, thai, beverages",400,3,cafes,0,budget,low,1
+Pizza Hut,0,0,4.2,1391,marathahalli,fine dining,"fast food, north indian, desserts, beverages",1000,4,drinks & nightlife,1,mid_range,medium,1
+Pizza Hut,1,0,2.1,2568,whitefield,fine dining,"desserts, italian, mexican",1000,3,cafes,0,mid_range,high,1
+Resto_769,0,0,3.5,1725,marathahalli,bakery,"south indian, continental, north indian",400,3,pubs and bars,0,budget,medium,1
+McDonald's,1,0,4.6,2981,whitefield,casual dining,"mexican, italian, continental, thai",600,4,dine-out,1,budget,high,1
+Resto_654,1,0,3.1,346,koramangala,quick service restaurant,"mexican, desserts, north indian, fast food, italian",1500,5,cafes,0,mid_range,low,1
+Nandhana Palace,0,0,3.9,826,whitefield,cafe,"continental, italian, beverages, mexican",1200,4,cafes,0,mid_range,medium,1
+Resto_377,1,1,2.8,718,jayanagar,cafe,"chinese, north indian",1200,2,drinks & nightlife,0,mid_range,medium,0
+Resto_817,0,1,2.1,2556,koramangala,fine dining,"north indian, continental, mexican, chinese, italian",1500,5,drinks & nightlife,0,mid_range,high,1
+Resto_736,0,0,4.7,2655,jayanagar,bar,"desserts, south indian, fast food, italian, north indian",400,5,dine-out,1,budget,high,1
+KFC,1,0,3.8,2538,mg road,cafe,"north indian, chinese",800,2,dine-out,0,budget,high,0
+Leon Grill,0,1,2.4,1432,whitefield,fine dining,"south indian, chinese, continental, desserts",1500,4,pubs and bars,0,mid_range,medium,1
+Empire Restaurant,1,1,3.2,1992,koramangala,bar,"north indian, beverages, thai, fast food, continental",1500,5,buffet,0,mid_range,medium,1
+Resto_826,0,0,3.3,1651,marathahalli,bar,"desserts, south indian, beverages, thai",1500,4,drinks & nightlife,0,mid_range,medium,1
+Resto_484,0,1,4.8,2002,hsr layout,fine dining,desserts,3000,1,pubs and bars,1,premium,medium,0
+Leon Grill,0,1,4.8,2783,koramangala,quick service restaurant,"north indian, continental, beverages",2500,3,pubs and bars,1,premium,high,1
+KFC,1,0,4,691,koramangala,bakery,"mexican, continental, south indian, north indian, desserts",600,5,pubs and bars,1,budget,low,1
+Resto_638,0,1,4.4,606,koramangala,quick service restaurant,"chinese, mexican, north indian, continental",1000,4,drinks & nightlife,1,mid_range,low,1
+Empire Restaurant,0,1,4,941,mg road,fine dining,"continental, beverages, fast food, thai, chinese",1000,5,pubs and bars,1,mid_range,medium,1
+Resto_937,1,1,4.1,802,hsr layout,cafe,"continental, desserts",200,2,delivery,1,budget,medium,0
+Resto_657,0,1,4.2,1211,jp nagar,pub,"north indian, continental, thai, south indian",1000,4,drinks & nightlife,1,mid_range,medium,1
+Empire Restaurant,0,1,3.4,446,whitefield,quick service restaurant,"chinese, fast food",2500,2,delivery,0,premium,low,0
+Nandhana Palace,1,1,4,463,marathahalli,bakery,"south indian, north indian, fast food, continental, chinese",600,5,dine-out,1,budget,low,1
+Resto_956,0,1,4.8,2506,marathahalli,bar,"mexican, chinese, desserts",2500,3,delivery,1,premium,high,1
+Pizza Hut,1,0,4.5,1953,mg road,quick service restaurant,"desserts, italian",2000,2,pubs and bars,1,mid_range,medium,0
+KFC,0,1,4.5,2362,hsr layout,bakery,"italian, north indian, mexican, chinese, continental",1500,5,drinks & nightlife,1,mid_range,high,1
+Leon Grill,1,1,3,1746,marathahalli,cafe,"south indian, fast food, mexican, italian",200,4,buffet,0,budget,medium,1
+Nandhana Palace,1,1,3.1,1133,indiranagar,quick service restaurant,fast food,800,1,delivery,0,budget,medium,0
+Nandhana Palace,0,0,3.9,2515,jayanagar,bar,"south indian, desserts, fast food, chinese, continental",3000,5,drinks & nightlife,0,premium,high,1
+Leon Grill,1,0,4.5,508,jayanagar,quick service restaurant,"south indian, thai",800,2,delivery,1,budget,low,0
+Nandhana Palace,0,0,3.2,1356,whitefield,casual dining,"south indian, desserts",400,2,cafes,0,budget,medium,0
+KFC,1,1,3.1,1043,indiranagar,quick service restaurant,"continental, mexican, north indian, desserts, fast food",400,5,dine-out,0,budget,medium,1
+Onesta,0,1,3.8,813,hsr layout,pub,italian,2000,1,dine-out,0,mid_range,medium,0
+Resto_108,1,0,2.8,1498,mg road,quick service restaurant,mexican,200,1,buffet,0,budget,medium,0
+Resto_455,0,0,2.1,585,jayanagar,bar,"mexican, north indian, continental, south indian, chinese",600,5,delivery,0,budget,low,1
+Resto_926,1,0,2.4,2966,indiranagar,bar,"thai, mexican, beverages",2500,3,pubs and bars,0,premium,high,1
+Pizza Hut,1,1,4.6,2266,jayanagar,quick service restaurant,"fast food, italian, thai",800,3,drinks & nightlife,1,budget,high,1
+McDonald's,1,1,4.1,1730,hsr layout,quick service restaurant,"mexican, south indian",3000,2,delivery,1,premium,medium,0
+KFC,1,1,2.4,2990,mg road,quick service restaurant,"thai, south indian, italian, beverages",400,4,pubs and bars,0,budget,high,1
+Empire Restaurant,0,1,4.1,2771,indiranagar,pub,"north indian, fast food, chinese, desserts",800,4,pubs and bars,1,budget,high,1
+Nandhana Palace,0,1,3.4,1369,whitefield,casual dining,north indian,2500,1,drinks & nightlife,0,premium,medium,0
+Empire Restaurant,1,1,3.6,2161,marathahalli,bar,"thai, continental",800,2,cafes,0,budget,high,0
+Resto_332,1,1,3.8,1488,mg road,cafe,"thai, desserts, beverages",200,3,cafes,0,budget,medium,1
+Resto_919,0,0,3.2,107,whitefield,quick service restaurant,"chinese, south indian",2500,2,delivery,0,premium,low,0
+Burger King,1,1,4.3,336,marathahalli,bar,mexican,1000,1,drinks & nightlife,1,mid_range,low,0
+Pizza Hut,0,1,4.1,1508,hsr layout,pub,"beverages, south indian, continental, fast food, thai",600,5,delivery,1,budget,medium,1
+Empire Restaurant,1,1,4.5,2907,whitefield,fine dining,"italian, continental, north indian, thai",1000,4,pubs and bars,1,mid_range,high,1
+Burger King,1,1,2.6,1146,whitefield,casual dining,"desserts, fast food, continental, italian",600,4,pubs and bars,0,budget,medium,1
+Nandhana Palace,0,1,3.8,729,mg road,pub,"fast food, south indian, mexican",600,3,drinks & nightlife,0,budget,medium,1
+Resto_528,1,0,4,1959,hsr layout,bakery,"mexican, north indian, thai",600,3,pubs and bars,1,budget,medium,1
+Burger King,0,0,2.2,1756,hsr layout,pub,"beverages, south indian",800,2,pubs and bars,0,budget,medium,0
+Burger King,1,0,2.6,1147,koramangala,bakery,"south indian, north indian, italian",1000,3,delivery,0,mid_range,medium,1
+Resto_548,0,1,2,1764,marathahalli,cafe,beverages,2500,1,cafes,0,premium,medium,0
+Leon Grill,1,0,3.8,1174,marathahalli,casual dining,"beverages, chinese",1000,2,drinks & nightlife,0,mid_range,medium,0
+Burger King,0,1,4.3,1887,koramangala,bakery,"north indian, italian, south indian, fast food",1200,4,pubs and bars,1,mid_range,medium,1
+Nandhana Palace,1,0,3.9,818,whitefield,bar,"continental, fast food",600,2,buffet,0,budget,medium,0
+Empire Restaurant,0,0,4.5,1514,mg road,quick service restaurant,continental,1200,1,dine-out,1,mid_range,medium,0
+Nandhana Palace,0,0,2.9,782,hsr layout,casual dining,"thai, desserts, continental, beverages, north indian",2000,5,cafes,0,mid_range,medium,1
+Onesta,0,0,3.2,30,marathahalli,bar,"beverages, continental",1500,2,delivery,0,mid_range,low,0
+Onesta,0,0,3.1,973,marathahalli,pub,"thai, desserts, beverages",600,3,dine-out,0,budget,medium,1
+KFC,1,0,4.6,268,whitefield,casual dining,"south indian, north indian, thai",200,3,drinks & nightlife,1,budget,low,1
+Resto_554,1,1,3.1,2150,whitefield,fine dining,"italian, thai",1500,2,pubs and bars,0,mid_range,high,0
+Empire Restaurant,1,1,3.9,26,mg road,cafe,"chinese, south indian",200,2,delivery,0,budget,low,0
+Burger King,0,0,3,2684,koramangala,bar,"south indian, thai, desserts",3000,3,dine-out,0,premium,high,1
+Onesta,0,0,3.6,1862,indiranagar,quick service restaurant,"thai, chinese, mexican",2500,3,cafes,0,premium,medium,1
+Empire Restaurant,0,0,2.5,2403,jp nagar,pub,mexican,1500,1,dine-out,0,mid_range,high,0
+KFC,0,0,4.5,1816,whitefield,quick service restaurant,"continental, italian, fast food, south indian, thai",2500,5,cafes,1,premium,medium,1
+Onesta,0,0,2.7,1889,marathahalli,pub,"chinese, fast food, mexican, thai, north indian",1500,5,buffet,0,mid_range,medium,1
+KFC,1,0,2.7,1616,whitefield,pub,"beverages, continental, italian, desserts",1000,4,pubs and bars,0,mid_range,medium,1
+Leon Grill,0,0,3.7,1524,marathahalli,quick service restaurant,"south indian, desserts, mexican",1200,3,dine-out,0,mid_range,medium,1
+Nandhana Palace,0,0,4.5,2415,whitefield,pub,"beverages, chinese",2000,2,pubs and bars,1,mid_range,high,0
+KFC,1,1,3,1699,indiranagar,pub,"fast food, beverages",200,2,cafes,0,budget,medium,0
+Resto_927,0,0,3.9,2712,hsr layout,bakery,"continental, mexican, north indian, south indian",200,4,delivery,0,budget,high,1
+Resto_752,0,1,3.7,1859,mg road,casual dining,"fast food, continental, north indian, beverages",1500,4,cafes,0,mid_range,medium,1
+Leon Grill,0,1,3.3,2079,hsr layout,pub,"fast food, desserts, south indian",1000,3,pubs and bars,0,mid_range,medium,1
+Resto_448,0,1,3.3,840,marathahalli,fine dining,"mexican, italian, continental",400,3,pubs and bars,0,budget,medium,1
+Onesta,1,1,2.8,1844,mg road,cafe,"fast food, north indian",3000,2,pubs and bars,0,premium,medium,0
+Resto_379,0,0,2.8,2349,jayanagar,bar,"desserts, thai, chinese, beverages, italian",200,5,delivery,0,budget,high,1
+Pizza Hut,0,0,4.9,1399,hsr layout,bakery,"thai, north indian, south indian, fast food, beverages",3000,5,cafes,1,premium,medium,1
+Empire Restaurant,0,0,3,243,jayanagar,cafe,"thai, north indian, italian, desserts, beverages",3000,5,delivery,0,premium,low,1
+Resto_282,1,1,2.8,512,marathahalli,fine dining,italian,400,1,drinks & nightlife,0,budget,low,0
+KFC,1,0,4.5,717,marathahalli,fine dining,"thai, south indian",1000,2,buffet,1,mid_range,medium,0
+Burger King,0,0,2.1,1995,hsr layout,bar,italian,1500,1,buffet,0,mid_range,medium,0
+Onesta,1,1,4.8,1140,jayanagar,casual dining,"south indian, fast food, mexican",1200,3,pubs and bars,1,mid_range,medium,1
+KFC,0,0,4.3,1133,koramangala,pub,"south indian, continental, beverages, north indian",1500,4,drinks & nightlife,1,mid_range,medium,1
+Onesta,0,0,3.7,999,jp nagar,cafe,"italian, desserts, thai",400,3,drinks & nightlife,0,budget,medium,1
+Onesta,1,1,3.8,1652,mg road,bakery,"north indian, fast food, italian, thai",1200,4,delivery,0,mid_range,medium,1
+McDonald's,1,1,3.8,373,jayanagar,bakery,"mexican, chinese, beverages, south indian, desserts",1200,5,cafes,0,mid_range,low,1
+Pizza Hut,0,1,4.7,1804,marathahalli,bar,"mexican, beverages, fast food",600,3,delivery,1,budget,medium,1
+Leon Grill,1,0,2.4,1191,jp nagar,pub,"north indian, mexican, italian, chinese",3000,4,delivery,0,premium,medium,1
+Empire Restaurant,0,1,4.9,683,jp nagar,cafe,south indian,3000,1,dine-out,1,premium,low,0
+Resto_360,1,0,2,1994,indiranagar,casual dining,south indian,400,1,pubs and bars,0,budget,medium,0
+Resto_161,1,0,3.1,309,indiranagar,bakery,"continental, thai, desserts, italian, south indian",3000,5,pubs and bars,0,premium,low,1
+Empire Restaurant,0,1,4.8,303,jp nagar,cafe,"south indian, chinese, beverages, fast food",3000,4,cafes,1,premium,low,1
+Empire Restaurant,0,1,2.4,39,marathahalli,bar,"thai, italian, mexican",1500,3,drinks & nightlife,0,mid_range,low,1
+Burger King,1,0,4.9,2228,koramangala,pub,fast food,200,1,pubs and bars,1,budget,high,0
+Pizza Hut,0,1,2.5,376,mg road,cafe,"mexican, north indian",800,2,cafes,0,budget,low,0
+Empire Restaurant,1,0,2.2,837,whitefield,cafe,"continental, fast food",1200,2,dine-out,0,mid_range,medium,0
+McDonald's,1,0,4.3,1771,indiranagar,bar,"mexican, italian, south indian, chinese, continental",2000,5,pubs and bars,1,mid_range,medium,1
+Pizza Hut,1,0,4.1,2753,jayanagar,cafe,"south indian, continental, thai, north indian",400,4,pubs and bars,1,budget,high,1
+Pizza Hut,1,0,3.9,2094,jayanagar,bakery,"thai, mexican",1500,2,drinks & nightlife,0,mid_range,medium,0
+Resto_347,1,1,3.8,1768,whitefield,quick service restaurant,"continental, chinese, fast food",3000,3,buffet,0,premium,medium,1
+Resto_454,0,1,4.7,1512,indiranagar,pub,"chinese, fast food, thai, continental",1000,4,drinks & nightlife,1,mid_range,medium,1
+Onesta,1,0,4,250,marathahalli,cafe,"north indian, chinese, south indian, beverages, desserts",600,5,pubs and bars,1,budget,low,1
+KFC,1,0,3.8,161,indiranagar,cafe,"beverages, italian, desserts, chinese, south indian",1000,5,dine-out,0,mid_range,low,1
+Resto_178,1,1,3.5,2870,jp nagar,bakery,fast food,400,1,buffet,0,budget,high,0
+KFC,0,1,4.4,1378,indiranagar,fine dining,chinese,1200,1,pubs and bars,1,mid_range,medium,0
+McDonald's,1,0,2.6,2695,whitefield,fine dining,"thai, north indian, chinese, desserts, italian",1000,5,pubs and bars,0,mid_range,high,1
+Resto_787,0,1,2.2,260,mg road,fine dining,"italian, fast food",3000,2,delivery,0,premium,low,0
+Resto_818,0,0,2.4,1418,whitefield,pub,"desserts, continental",1000,2,pubs and bars,0,mid_range,medium,0
+Pizza Hut,0,1,3.9,728,jp nagar,fine dining,thai,2500,1,cafes,0,premium,medium,0
+McDonald's,1,0,3.3,2035,indiranagar,bar,"italian, continental, beverages, north indian, south indian",3000,5,pubs and bars,0,premium,medium,1
+Resto_604,1,1,2.3,888,koramangala,quick service restaurant,"italian, chinese",600,2,delivery,0,budget,medium,0
+Leon Grill,1,0,2.5,1611,jp nagar,casual dining,"beverages, desserts, chinese",1000,3,buffet,0,mid_range,medium,1
+Leon Grill,1,0,3.1,712,whitefield,bakery,"north indian, continental, beverages, chinese, italian",3000,5,cafes,0,premium,medium,1
+McDonald's,0,1,2.1,36,marathahalli,casual dining,"desserts, beverages, italian",1500,3,buffet,0,mid_range,low,1
+Burger King,1,1,3.6,1778,jp nagar,casual dining,"south indian, mexican, thai, continental, desserts",600,5,buffet,0,budget,medium,1
+KFC,1,0,2.9,1557,koramangala,quick service restaurant,fast food,2500,1,drinks & nightlife,0,premium,medium,0
+Nandhana Palace,1,0,3.4,827,jayanagar,casual dining,"italian, mexican",2500,2,cafes,0,premium,medium,0
+Pizza Hut,1,0,3.7,315,marathahalli,bakery,"thai, north indian, desserts, mexican, continental",600,5,buffet,0,budget,low,1
+Resto_587,0,1,4.5,2740,indiranagar,quick service restaurant,"desserts, beverages, fast food, north indian",400,4,cafes,1,budget,high,1
+KFC,1,0,2.4,1728,koramangala,casual dining,"south indian, desserts",2000,2,dine-out,0,mid_range,medium,0
+Resto_331,0,0,4.4,2920,indiranagar,bar,"fast food, south indian, chinese, mexican",2000,4,cafes,1,mid_range,high,1
+Pizza Hut,1,1,4.3,1270,jayanagar,quick service restaurant,thai,2500,1,cafes,1,premium,medium,0
+Empire Restaurant,0,0,3.4,1357,mg road,quick service restaurant,"continental, south indian, north indian",3000,3,pubs and bars,0,premium,medium,1
+Resto_300,0,1,3.4,811,marathahalli,bakery,"italian, beverages, fast food, chinese, north indian",1000,5,delivery,0,mid_range,medium,1
+Onesta,1,0,4.2,2079,indiranagar,bar,"beverages, italian, south indian",1200,3,buffet,1,mid_range,medium,1
+Pizza Hut,1,0,3.3,967,jp nagar,casual dining,"beverages, thai, north indian",1500,3,delivery,0,mid_range,medium,1
+McDonald's,0,0,2.3,172,marathahalli,cafe,italian,800,1,cafes,0,budget,low,0
+Resto_481,0,1,2.6,1163,jayanagar,cafe,"south indian, thai, italian",600,3,delivery,0,budget,medium,1
+Resto_323,0,0,2.9,2075,jp nagar,bar,chinese,1200,1,dine-out,0,mid_range,medium,0
+Resto_904,0,1,2.2,1362,jp nagar,pub,"desserts, mexican",1500,2,cafes,0,mid_range,medium,0
+Nandhana Palace,1,1,2.3,841,jp nagar,cafe,"desserts, beverages, fast food",400,3,dine-out,0,budget,medium,1
+Empire Restaurant,0,1,2.4,2408,indiranagar,casual dining,"chinese, continental, thai, italian, south indian",1500,5,dine-out,0,mid_range,high,1
+Burger King,1,1,2.8,307,mg road,pub,mexican,400,1,drinks & nightlife,0,budget,low,0
+Resto_275,1,0,2.8,1095,mg road,quick service restaurant,"thai, beverages, desserts, italian",600,4,pubs and bars,0,budget,medium,1
+KFC,1,0,3.8,578,koramangala,bakery,"beverages, north indian, continental, chinese, fast food",1000,5,cafes,0,mid_range,low,1
+KFC,0,1,2.1,1151,jp nagar,cafe,fast food,1000,1,cafes,0,mid_range,medium,0
+Pizza Hut,0,1,2.8,487,jayanagar,cafe,beverages,800,1,dine-out,0,budget,low,0
+Onesta,0,1,4,727,koramangala,bar,"desserts, north indian, south indian, chinese, beverages",1500,5,pubs and bars,1,mid_range,medium,1
+Empire Restaurant,1,1,4,1546,koramangala,fine dining,"thai, north indian, chinese, fast food",3000,4,dine-out,1,premium,medium,1
+McDonald's,0,0,2.5,2047,indiranagar,quick service restaurant,"fast food, beverages, italian",1200,3,pubs and bars,0,mid_range,medium,1
+Resto_34,1,1,2.6,83,jayanagar,cafe,"desserts, chinese",3000,2,drinks & nightlife,0,premium,low,0
+Resto_267,1,0,2.6,1022,jp nagar,cafe,chinese,400,1,buffet,0,budget,medium,0
+Pizza Hut,0,1,4.1,2414,indiranagar,cafe,fast food,3000,1,drinks & nightlife,1,premium,high,0
+Resto_431,0,1,4.4,2514,jayanagar,bakery,"chinese, north indian, thai, italian",800,4,buffet,1,budget,high,1
+Resto_880,0,1,4.6,1554,marathahalli,casual dining,"italian, chinese, desserts, thai, north indian",1500,5,delivery,1,mid_range,medium,1
+Leon Grill,1,0,4.3,1498,indiranagar,bar,"north indian, continental, chinese, italian",1200,4,pubs and bars,1,mid_range,medium,1
+Empire Restaurant,0,0,2.3,50,indiranagar,pub,"fast food, south indian",2500,2,pubs and bars,0,premium,low,0
+Nandhana Palace,1,1,4,963,mg road,casual dining,"italian, north indian, chinese, fast food, thai",3000,5,dine-out,1,premium,medium,1
+Resto_694,1,0,2.9,213,jayanagar,pub,"mexican, desserts, thai, south indian",2500,4,cafes,0,premium,low,1
+Resto_254,1,0,3.5,1660,koramangala,fine dining,"chinese, italian, desserts",3000,3,dine-out,0,premium,medium,1
+Leon Grill,0,1,3.6,2166,jayanagar,fine dining,"north indian, fast food",1000,2,dine-out,0,mid_range,high,0
+Onesta,1,0,4.4,393,jayanagar,pub,"thai, beverages, fast food, italian",1200,4,cafes,1,mid_range,low,1
+Burger King,1,0,3.5,1096,whitefield,quick service restaurant,"italian, north indian, mexican, beverages",200,4,drinks & nightlife,0,budget,medium,1
+Leon Grill,1,0,2.6,2594,jp nagar,cafe,"thai, italian, mexican, beverages",1000,4,dine-out,0,mid_range,high,1
+Burger King,0,1,4.4,1998,mg road,pub,"mexican, north indian, chinese, continental, thai",400,5,drinks & nightlife,1,budget,medium,1
+Nandhana Palace,1,0,3,2431,indiranagar,bakery,"italian, north indian, continental, fast food, thai",200,5,cafes,0,budget,high,1
+McDonald's,1,1,2.9,1912,jayanagar,bar,desserts,3000,1,cafes,0,premium,medium,0
+McDonald's,0,0,2.7,2954,hsr layout,quick service restaurant,beverages,600,1,pubs and bars,0,budget,high,0
+Leon Grill,0,0,4.8,1098,indiranagar,quick service restaurant,"south indian, chinese, mexican",1500,3,pubs and bars,1,mid_range,medium,1
+Leon Grill,0,0,2.4,421,mg road,bar,thai,2500,1,cafes,0,premium,low,0
+Resto_954,1,0,4.7,855,jp nagar,cafe,"continental, thai, chinese, italian, beverages",800,5,delivery,1,budget,medium,1
+Nandhana Palace,1,0,2.7,1048,jayanagar,fine dining,"italian, desserts",600,2,delivery,0,budget,medium,0
+McDonald's,1,1,4.8,1887,jp nagar,bar,fast food,400,1,pubs and bars,1,budget,medium,0
+Resto_202,0,0,3.2,2644,indiranagar,cafe,"italian, mexican, desserts, beverages",2500,4,delivery,0,premium,high,1
+Onesta,0,1,2.4,2133,hsr layout,quick service restaurant,"italian, chinese, thai, desserts, beverages",200,5,delivery,0,budget,high,1
+Resto_88,0,1,2.2,919,koramangala,quick service restaurant,thai,600,1,pubs and bars,0,budget,medium,0
+Nandhana Palace,1,1,2.3,304,jayanagar,quick service restaurant,south indian,3000,1,delivery,0,premium,low,0
+Leon Grill,0,0,4.1,87,whitefield,cafe,north indian,800,1,cafes,1,budget,low,0
+Resto_672,1,1,2.1,2211,hsr layout,casual dining,"north indian, thai, italian, south indian",3000,4,cafes,0,premium,high,1
+Pizza Hut,1,1,3.2,19,whitefield,cafe,"beverages, chinese, fast food, continental",1000,4,buffet,0,mid_range,low,1
+Empire Restaurant,1,0,2.9,1476,koramangala,bar,"chinese, italian",1500,2,buffet,0,mid_range,medium,0
+Resto_464,0,0,2.5,246,marathahalli,quick service restaurant,"continental, mexican, thai, beverages, desserts",800,5,delivery,0,budget,low,1
+Resto_675,0,1,2.8,620,marathahalli,bar,"desserts, continental",600,2,delivery,0,budget,low,0
+Leon Grill,0,0,3.4,2964,marathahalli,bakery,"south indian, desserts, north indian, fast food",400,4,buffet,0,budget,high,1
+Onesta,1,0,2,312,indiranagar,pub,"italian, mexican",200,2,delivery,0,budget,low,0
+Onesta,1,0,4.3,1354,jayanagar,fine dining,"continental, south indian, north indian, thai",1200,4,buffet,1,mid_range,medium,1
+Nandhana Palace,0,1,3,557,jayanagar,casual dining,"desserts, italian, south indian, mexican",800,4,buffet,0,budget,low,1
+Leon Grill,0,1,2.9,2855,whitefield,quick service restaurant,"fast food, beverages",1500,2,buffet,0,mid_range,high,0
+Resto_507,1,0,2.6,1539,hsr layout,fine dining,italian,3000,1,dine-out,0,premium,medium,0
+Resto_374,1,0,2.2,674,whitefield,casual dining,"desserts, south indian",800,2,cafes,0,budget,low,0
+Leon Grill,0,0,4.7,1986,hsr layout,casual dining,north indian,600,1,dine-out,1,budget,medium,0
+KFC,1,1,4.3,584,hsr layout,fine dining,chinese,1500,1,dine-out,1,mid_range,low,0
+Resto_72,0,1,3.7,1757,koramangala,pub,"north indian, south indian, continental",1000,3,dine-out,0,mid_range,medium,1
+Resto_717,0,1,3.4,1503,koramangala,pub,"continental, mexican, thai",1000,3,dine-out,0,mid_range,medium,1
+Resto_326,0,0,2.8,355,marathahalli,cafe,"desserts, continental, italian",2500,3,delivery,0,premium,low,1
+Leon Grill,1,1,4,671,marathahalli,quick service restaurant,"beverages, continental, south indian, desserts, chinese",1000,5,drinks & nightlife,1,mid_range,low,1
+McDonald's,0,1,3.3,2735,whitefield,quick service restaurant,"fast food, north indian, south indian",3000,3,drinks & nightlife,0,premium,high,1
+Onesta,0,0,2.1,328,jayanagar,casual dining,"mexican, chinese, desserts",600,3,delivery,0,budget,low,1
+Burger King,0,1,3.9,2402,koramangala,cafe,"south indian, italian, thai, fast food, mexican",2500,5,pubs and bars,0,premium,high,1
+Resto_274,0,0,3.1,1173,marathahalli,fine dining,"south indian, thai",1500,2,delivery,0,mid_range,medium,0
+McDonald's,0,1,4.7,2607,marathahalli,casual dining,"south indian, north indian",800,2,dine-out,1,budget,high,0
+Leon Grill,0,0,3,1517,indiranagar,quick service restaurant,"desserts, fast food",1500,2,dine-out,0,mid_range,medium,0
+Onesta,1,0,2.8,1674,jp nagar,fine dining,"north indian, thai, chinese, south indian, fast food",2500,5,pubs and bars,0,premium,medium,1
+Burger King,0,1,4.1,1596,mg road,cafe,"chinese, mexican, italian",2500,3,pubs and bars,1,premium,medium,1
+Burger King,1,0,4,1383,koramangala,casual dining,north indian,200,1,drinks & nightlife,1,budget,medium,0
+Resto_661,0,1,2.7,1334,jp nagar,bar,"chinese, mexican, continental, fast food",200,4,cafes,0,budget,medium,1
+KFC,0,0,3.1,432,jp nagar,pub,"beverages, mexican, italian, fast food, desserts",2000,5,dine-out,0,mid_range,low,1
+Resto_613,0,1,4.5,1063,koramangala,casual dining,continental,400,1,pubs and bars,1,budget,medium,0
+Empire Restaurant,1,1,4,256,indiranagar,bar,"south indian, thai, beverages, chinese, italian",400,5,buffet,1,budget,low,1
+Onesta,1,0,4,715,marathahalli,casual dining,"desserts, thai, north indian, fast food, beverages",800,5,drinks & nightlife,1,budget,medium,1
+Burger King,0,0,2.4,2291,koramangala,pub,"continental, south indian",2500,2,dine-out,0,premium,high,0
+Resto_595,0,0,4.7,406,indiranagar,bar,chinese,200,1,cafes,1,budget,low,0
+Leon Grill,0,1,2.1,2492,hsr layout,fine dining,"mexican, south indian, north indian, beverages, fast food",2500,5,buffet,0,premium,high,1
+Nandhana Palace,1,0,4.2,689,indiranagar,fine dining,continental,600,1,pubs and bars,1,budget,low,0
+Resto_611,0,1,3.2,1232,whitefield,quick service restaurant,"mexican, chinese, thai",2000,3,pubs and bars,0,mid_range,medium,1
+McDonald's,0,1,2.6,1573,indiranagar,casual dining,"fast food, chinese",200,2,pubs and bars,0,budget,medium,0
+Burger King,0,0,3.7,1659,whitefield,pub,"south indian, beverages, desserts, chinese",200,4,delivery,0,budget,medium,1
+Nandhana Palace,0,1,3.4,2494,hsr layout,bar,"beverages, italian, thai",1500,3,dine-out,0,mid_range,high,1
+Leon Grill,1,0,3.1,290,indiranagar,cafe,"continental, chinese, beverages, italian, desserts",200,5,dine-out,0,budget,low,1
+KFC,0,1,3.9,1948,jp nagar,pub,"south indian, beverages, fast food",1000,3,pubs and bars,0,mid_range,medium,1
+Pizza Hut,1,0,2.2,2564,hsr layout,pub,"italian, beverages, north indian",1000,3,dine-out,0,mid_range,high,1
+Resto_392,1,1,4.7,2374,jp nagar,quick service restaurant,"beverages, italian",2500,2,buffet,1,premium,high,0
+KFC,1,1,2.4,1724,jp nagar,casual dining,"italian, desserts",1000,2,pubs and bars,0,mid_range,medium,0
+Burger King,1,0,2.1,1790,jayanagar,bakery,beverages,1200,1,delivery,0,mid_range,medium,0
+Onesta,1,0,3.2,2515,marathahalli,pub,"north indian, beverages, south indian",600,3,delivery,0,budget,high,1
+Nandhana Palace,0,1,3.3,1396,jp nagar,bar,italian,2000,1,pubs and bars,0,mid_range,medium,0
+Burger King,1,0,2.3,1624,marathahalli,quick service restaurant,"south indian, mexican, chinese, beverages, italian",1500,5,delivery,0,mid_range,medium,1
+Onesta,0,1,4.7,1768,jayanagar,fine dining,"mexican, chinese, continental, fast food, beverages",400,5,pubs and bars,1,budget,medium,1
